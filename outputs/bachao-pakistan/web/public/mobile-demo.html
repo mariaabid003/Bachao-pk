@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bachao Pakistan — Mobile Preview</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      height: 100vh;
+      background: linear-gradient(135deg, #0f0c29 0%, #302b63 40%, #24243e 70%, #0d1117 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      position: relative;
+      padding: 24px 16px;
+    }
+
+    /* Ambient glow blobs */
+    .blob {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(80px);
+      opacity: 0.25;
+      pointer-events: none;
+      animation: blobFloat 8s ease-in-out infinite alternate;
+    }
+    .blob-1 { width: 500px; height: 500px; background: #ef4444; top: -100px; left: -100px; animation-delay: 0s; }
+    .blob-2 { width: 400px; height: 400px; background: #7c3aed; bottom: -80px; right: -80px; animation-delay: 2s; }
+    .blob-3 { width: 300px; height: 300px; background: #f59e0b; top: 50%; left: 60%; animation-delay: 4s; }
+    @keyframes blobFloat {
+      from { transform: translate(0, 0) scale(1); }
+      to   { transform: translate(30px, -20px) scale(1.05); }
+    }
+
+    /* Header label */
+    .header {
+      text-align: center;
+      margin-bottom: 32px;
+      z-index: 10;
+      position: relative;
+    }
+    .header-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 40px;
+      padding: 8px 20px;
+      font-size: 13px;
+      color: #94a3b8;
+      margin-bottom: 16px;
+      backdrop-filter: blur(10px);
+    }
+    .header h1 {
+      font-size: 36px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -1px;
+      line-height: 1.1;
+    }
+    .header h1 span { color: #ef4444; }
+    .header p {
+      color: #64748b;
+      font-size: 15px;
+      margin-top: 8px;
+    }
+
+    /* Phone scene — scale is set by JS to fit viewport */
+    .scene {
+      position: relative;
+      z-index: 10;
+      transform-origin: center center;
+    }
+    .scene-inner {
+      animation: phoneFloat 4s ease-in-out infinite;
+    }
+    @keyframes phoneFloat {
+      0%, 100% { transform: translateY(0px); }
+      50%       { transform: translateY(-12px); }
+    }
+
+    /* Phone outer shadow glow */
+    .phone-glow {
+      position: absolute;
+      inset: -20px;
+      border-radius: 56px;
+      background: radial-gradient(ellipse at center, rgba(239,68,68,0.3) 0%, transparent 70%);
+      filter: blur(20px);
+      z-index: 0;
+    }
+
+    /* Phone body */
+    .phone {
+      position: relative;
+      z-index: 1;
+      width: 375px;
+      height: 812px;
+      background: #0a0a0a;
+      border-radius: 50px;
+      border: 1px solid rgba(255,255,255,0.12);
+      box-shadow:
+        0 0 0 1px #000,
+        0 0 0 3px #1a1a1a,
+        0 40px 80px rgba(0,0,0,0.8),
+        inset 0 1px 0 rgba(255,255,255,0.08);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Status bar */
+    .status-bar {
+      flex-shrink: 0;
+      height: 44px;
+      background: #0f172a;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      position: relative;
+      z-index: 2;
+    }
+    .status-time { color: #f8fafc; font-size: 13px; font-weight: 600; }
+    .status-icons { display: flex; align-items: center; gap: 6px; }
+    .status-icons svg { color: #f8fafc; }
+    .battery {
+      width: 22px; height: 11px;
+      border: 1.5px solid #f8fafc;
+      border-radius: 3px;
+      position: relative;
+      display: flex;
+      align-items: center;
+      padding: 1.5px;
+    }
+    .battery::after {
+      content: '';
+      position: absolute;
+      right: -4px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 2px;
+      height: 5px;
+      background: #f8fafc;
+      border-radius: 0 1px 1px 0;
+    }
+    .battery-fill { width: 75%; height: 100%; background: #22c55e; border-radius: 1px; }
+
+    /* Dynamic island notch */
+    .notch-bar {
+      flex-shrink: 0;
+      height: 10px;
+      background: #0f172a;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+    }
+    .dynamic-island {
+      width: 120px;
+      height: 32px;
+      background: #000;
+      border-radius: 0 0 20px 20px;
+      border: 1px solid #1a1a1a;
+      border-top: none;
+    }
+
+    /* App iframe */
+    .app-frame {
+      flex: 1;
+      overflow: hidden;
+      position: relative;
+      background: #0f172a;
+    }
+    .app-frame iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+    .app-loading {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      background: #0f172a;
+      color: #94a3b8;
+      font-size: 13px;
+      line-height: 1.5;
+      text-align: center;
+      z-index: 0;
+    }
+
+    /* Home indicator */
+    .home-indicator {
+      flex-shrink: 0;
+      height: 34px;
+      background: #0f172a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .home-bar {
+      width: 120px;
+      height: 5px;
+      background: rgba(255,255,255,0.3);
+      border-radius: 3px;
+    }
+
+    /* Side buttons */
+    .phone::before {
+      content: '';
+      position: absolute;
+      left: -4px;
+      top: 120px;
+      width: 3px;
+      height: 32px;
+      background: #1a1a1a;
+      border-radius: 2px 0 0 2px;
+      box-shadow: 0 44px 0 #1a1a1a, 0 88px 0 #1a1a1a;
+    }
+    .phone::after {
+      content: '';
+      position: absolute;
+      right: -4px;
+      top: 140px;
+      width: 3px;
+      height: 64px;
+      background: #1a1a1a;
+      border-radius: 0 2px 2px 0;
+    }
+
+    /* Reflection overlay on glass */
+    .reflection {
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 200px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.04) 0%, transparent 100%);
+      pointer-events: none;
+      z-index: 10;
+      border-radius: 50px 50px 0 0;
+    }
+
+    /* Footer */
+    .footer {
+      position: relative;
+      z-index: 10;
+      margin-top: 28px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+    .footer-url {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 10px;
+      padding: 8px 16px;
+      color: #64748b;
+      font-size: 13px;
+      backdrop-filter: blur(10px);
+    }
+    .footer-url .dot { width: 8px; height: 8px; background: #22c55e; border-radius: 50%; animation: pulse 2s infinite; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0.4; }
+    }
+    .footer-url span { color: #94a3b8; }
+
+    /* Responsive header size */
+    @media (max-height: 860px) {
+      .header h1 { font-size: 26px; }
+      .header { margin-bottom: 12px; }
+      .header-badge { display: none; }
+      .footer { margin-top: 12px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Ambient blobs -->
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+  <div class="blob blob-3"></div>
+
+  <!-- Header -->
+  <div class="header">
+    <div class="header-badge">
+      🛡️ Bachao Pakistan · Mobile App Preview
+    </div>
+    <h1>Karachi's Safety App<br /><span>Running Live</span></h1>
+    <p>React Native · Expo Web · Real-time safety intelligence</p>
+  </div>
+
+  <!-- Phone scene -->
+  <div class="scene" id="scene">
+    <div class="scene-inner">
+    <div class="phone-glow"></div>
+    <div class="phone">
+      <!-- Reflection -->
+      <div class="reflection"></div>
+
+      <!-- Status bar -->
+      <div class="status-bar">
+        <span class="status-time" id="clock">9:41</span>
+        <div class="status-icons">
+          <!-- Signal bars -->
+          <svg width="16" height="12" viewBox="0 0 16 12" fill="none">
+            <rect x="0" y="7" width="3" height="5" rx="1" fill="currentColor"/>
+            <rect x="4.5" y="4.5" width="3" height="7.5" rx="1" fill="currentColor"/>
+            <rect x="9" y="2" width="3" height="10" rx="1" fill="currentColor"/>
+            <rect x="13.5" y="0" width="3" height="12" rx="1" fill="currentColor" opacity="0.3"/>
+          </svg>
+          <!-- WiFi -->
+          <svg width="15" height="12" viewBox="0 0 15 12" fill="currentColor">
+            <path d="M7.5 9.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/>
+            <path d="M7.5 6C5.9 6 4.4 6.6 3.3 7.7L2 6.4A7.4 7.4 0 0 1 7.5 4a7.4 7.4 0 0 1 5.5 2.4L11.7 7.7A5.2 5.2 0 0 0 7.5 6z" opacity="0.7"/>
+            <path d="M7.5 2.5C4.8 2.5 2.4 3.6.6 5.4L-.7 4A9.8 9.8 0 0 1 7.5 0a9.8 9.8 0 0 1 8.2 4l-1.3 1.4A7.5 7.5 0 0 0 7.5 2.5z" opacity="0.4"/>
+          </svg>
+          <!-- Battery -->
+          <div class="battery"><div class="battery-fill"></div></div>
+        </div>
+      </div>
+
+      <!-- Dynamic island -->
+      <div class="notch-bar">
+        <div class="dynamic-island"></div>
+      </div>
+
+      <!-- App iframe -->
+      <div class="app-frame">
+        <div class="app-loading">
+          Start the mobile web app with npm run web in the mobile folder.
+        </div>
+        <iframe
+          src="http://localhost:8083"
+          title="Bachao Pakistan Mobile App"
+          allow="geolocation"
+        ></iframe>
+      </div>
+
+      <!-- Home indicator -->
+      <div class="home-indicator">
+        <div class="home-bar"></div>
+      </div>
+    </div>
+    </div><!-- /scene-inner -->
+  </div><!-- /scene -->
+
+  <!-- Footer -->
+  <div class="footer">
+    <div class="footer-url">
+      <div class="dot"></div>
+      <span>localhost:8083</span>
+    </div>
+    <div class="footer-url">
+      <span>🇵🇰 Built for Karachi</span>
+    </div>
+  </div>
+
+  <script>
+    // Live clock in status bar
+    function updateClock() {
+      const now = new Date();
+      const h = now.getHours().toString().padStart(2, '0');
+      const m = now.getMinutes().toString().padStart(2, '0');
+      document.getElementById('clock').textContent = `${h}:${m}`;
+    }
+    updateClock();
+    setInterval(updateClock, 1000);
+
+    // Auto-scale phone to fit viewport height
+    function scalePhone() {
+      const scene = document.getElementById('scene');
+      const PHONE_NATURAL_HEIGHT = 912; // phone height at scale 1
+      const CHROME_HEIGHT = 260;        // header + footer + padding
+      const available = window.innerHeight - CHROME_HEIGHT;
+      const scale = Math.min(1, available / PHONE_NATURAL_HEIGHT);
+      scene.style.transform = `scale(${scale})`;
+      // With center-center origin, shrinking reduces visual size but
+      // the element still occupies its natural layout size.
+      // Collapse the unused space so layout stays tight.
+      const saved = PHONE_NATURAL_HEIGHT * (1 - scale);
+      scene.style.marginTop    = `-${saved / 2}px`;
+      scene.style.marginBottom = `-${saved / 2}px`;
+    }
+    scalePhone();
+    window.addEventListener('resize', scalePhone);
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "id": "5",
+  "subject": "Write developer handoff summary",
+  "description": "Tell user exactly what they need to do to get it running",
+  "activeForm": "Writing handoff notes",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+shapely
+geopy
+firebase-admin
+africastalking
+httpx
+python-dotenv
+anthropic
+joblib
+apscheduler

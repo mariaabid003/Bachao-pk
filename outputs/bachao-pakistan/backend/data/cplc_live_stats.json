@@ -1,0 +1,21 @@
+{
+  "source": "cplc_official_2025_annual",
+  "fetched_at": "2026-06-08T06:07:06.847995Z",
+  "year": 2025,
+  "mobile_snatched": 17706,
+  "vehicles_hijacked": 6683,
+  "vehicles_stolen": 39934,
+  "reported_total": 64323,
+  "incident_proportions": {
+    "mobile_snatching": 0.25488,
+    "motorcycle_theft": 0.54873,
+    "vehicle_hijacking": 0.0962,
+    "car_theft": 0.02613,
+    "robbery": 0.02963,
+    "mugging": 0.02,
+    "house_burglary": 0.01037,
+    "carjacking": 0.00741,
+    "kidnapping": 0.0037,
+    "assault": 0.00296
+  }
+}

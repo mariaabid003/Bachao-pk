@@ -1,0 +1,901 @@
+fir_number,timestamp,ps_name,area,lat,lng,incident_type,severity,weapon_involved,reported_to_police,source,hour,day_of_week
+ORA/1020/2023,2023-01-01 23:34:56,Orangi 5,Orangi Town,24.94563,66.994647,vehicle_hijacking,CRITICAL,firearm,yes,karachi_police_fir,23,Sunday
+GUL/1047/2023,2023-01-04 03:30:29,Gulshan Iqbal,Gulshan-e-Iqbal,24.941446,67.109603,mobile_snatching,HIGH,none,yes,karachi_police_fir,3,Wednesday
+ARA/1013/2023,2023-01-06 19:16:32,Arambagh,Saddar,24.85932,67.01167,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,19,Friday
+KAL/1020/2023,2023-01-09 02:03:07,Kalakot,Lyari,24.857277,66.993147,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Monday
+MAL/1024/2023,2023-01-09 19:32:11,Malir,Malir,24.900639,67.192573,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Monday
+GAR/1003/2023,2023-01-11 06:17:11,Garden,Saddar,24.86795,67.017565,mobile_snatching,HIGH,knife,yes,karachi_police_fir,6,Wednesday
+SOH/1016/2023,2023-01-11 22:54:31,Sohrab Goth,Sohrab Goth,24.949542,67.053784,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,22,Wednesday
+MOM/1019/2023,2023-01-13 20:58:46,Mominabad,Orangi Town,24.937097,67.000826,motorcycle_theft,CRITICAL,knife,yes,karachi_police_fir,20,Friday
+KOR/1014/2023,2023-01-14 18:08:53,Korangi,Korangi,24.824847,67.117795,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Saturday
+KOR/1001/2023,2023-01-14 23:19:19,Korangi,Korangi,24.825112,67.09779,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Saturday
+ARA/1007/2023,2023-01-15 23:36:41,Arambagh,Saddar,24.854229,67.010836,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Sunday
+NAP/1004/2023,2023-01-19 17:31:41,Napier,Saddar,24.866765,67.006229,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Thursday
+GUL/1034/2023,2023-01-19 17:54:15,Gulshan Iqbal,Gulshan-e-Iqbal,24.928786,67.105404,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Thursday
+KHA/1025/2023,2023-01-20 09:03:10,Kharadar,Saddar,24.858602,67.003015,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,9,Friday
+GUL/1005/2023,2023-01-21 21:05:42,Gulberg,Gulberg,24.912589,67.080802,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,21,Saturday
+SOH/1037/2023,2023-01-25 20:13:02,Sohrab Goth,Sohrab Goth,24.957068,67.047178,motorcycle_theft,CRITICAL,knife,yes,karachi_police_fir,20,Wednesday
+GUL/1015/2023,2023-01-28 17:30:26,Gulberg,Gulberg,24.913085,67.081687,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Saturday
+KOR/1004/2023,2023-01-28 19:16:09,Korangi,Korangi,24.839677,67.101504,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Saturday
+TEE/1012/2023,2023-01-30 18:07:08,Teen Talwar,Teen Talwar,24.810036,67.031191,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Monday
+KEM/1009/2023,2023-01-31 09:37:22,Kemari,Kemari,24.843801,66.969113,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,9,Tuesday
+SOH/1001/2023,2023-02-01 01:04:58,Sohrab Goth,Sohrab Goth,24.961907,67.050818,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Wednesday
+NEW/1010/2023,2023-02-03 21:15:42,New Karachi,New Karachi,24.971558,67.067473,robbery,HIGH,knife,yes,karachi_police_fir,21,Friday
+MOM/1034/2023,2023-02-05 02:23:05,Mominabad,Orangi Town,24.929977,66.994407,house_burglary,MEDIUM,none,yes,karachi_police_fir,2,Sunday
+BAL/1020/2023,2023-02-09 13:15:38,Baldia,Baldia Town,24.909068,66.975047,house_burglary,MEDIUM,none,yes,karachi_police_fir,13,Thursday
+NAP/1020/2023,2023-02-10 08:31:01,Napier,Saddar,24.869732,67.003999,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Friday
+FER/1013/2023,2023-02-10 09:06:43,Ferozabad,Gulshan-e-Iqbal,24.923796,67.093104,mobile_snatching,HIGH,none,yes,karachi_police_fir,9,Friday
+KAL/1041/2023,2023-02-13 01:46:50,Kalakot,Lyari,24.849508,66.998926,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Monday
+GUL/1030/2023,2023-02-16 00:30:55,Gulberg,Gulberg,24.916696,67.085069,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Thursday
+SOH/1024/2023,2023-02-16 19:51:03,Sohrab Goth,Sohrab Goth,24.948934,67.054568,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Thursday
+GUL/1003/2023,2023-02-19 03:23:51,Gulshan Iqbal,Gulshan-e-Iqbal,24.932247,67.102006,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,3,Sunday
+ORA/1008/2023,2023-02-19 23:08:29,Orangi 5,Orangi Town,24.947822,67.004392,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,23,Sunday
+SUR/1013/2023,2023-02-22 03:18:19,Surjani,Surjani Town,24.982944,67.041039,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Wednesday
+GUL/1032/2023,2023-02-22 05:51:42,Gulshan Iqbal,Gulshan-e-Iqbal,24.935991,67.111391,motorcycle_theft,HIGH,none,yes,karachi_police_fir,5,Wednesday
+KEM/1027/2023,2023-02-22 18:36:42,Kemari,Kemari,24.836475,66.964155,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,18,Wednesday
+SOH/1006/2023,2023-02-23 18:46:20,Sohrab Goth,Sohrab Goth,24.958436,67.061532,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Thursday
+BAL/1024/2023,2023-02-28 01:02:41,Baldia,Baldia Town,24.898145,66.992707,mobile_snatching,HIGH,none,yes,karachi_police_fir,1,Tuesday
+KHA/1019/2023,2023-02-28 21:56:25,Kharadar,Saddar,24.853078,67.006121,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,21,Tuesday
+ORA/1006/2023,2023-03-01 19:07:21,Orangi 5,Orangi Town,24.938878,66.999718,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Wednesday
+SOH/1034/2023,2023-03-02 03:49:19,Sohrab Goth,Sohrab Goth,24.954049,67.04819,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Thursday
+NOR/1005/2023,2023-03-02 16:07:56,North Nazimabad,North Nazimabad,24.945021,67.059978,vehicle_hijacking,HIGH,knife,yes,karachi_police_fir,16,Thursday
+KHA/1021/2023,2023-03-03 08:36:09,Kharadar,Saddar,24.857507,67.003742,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,8,Friday
+GUL/1012/2023,2023-03-03 09:05:42,Gulberg,Gulberg,24.912568,67.079455,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,9,Friday
+ORA/1016/2023,2023-03-03 23:16:43,Orangi 5,Orangi Town,24.94329,66.99672,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,23,Friday
+LIA/1021/2023,2023-03-04 03:49:10,Liaquatabad,Liaquatabad,24.907231,67.043521,mobile_snatching,HIGH,knife,yes,karachi_police_fir,3,Saturday
+ARA/1004/2023,2023-03-06 12:39:52,Arambagh,Saddar,24.85626,67.005327,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Monday
+NEW/1001/2023,2023-03-09 03:13:13,New Karachi,New Karachi,24.970105,67.071473,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,3,Thursday
+MOM/1020/2023,2023-03-12 12:29:31,Mominabad,Orangi Town,24.926518,66.996144,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Sunday
+KAL/1015/2023,2023-03-13 14:07:36,Kalakot,Lyari,24.857834,66.999038,motorcycle_theft,HIGH,none,yes,karachi_police_fir,14,Monday
+TEE/1028/2023,2023-03-14 04:06:53,Teen Talwar,Teen Talwar,24.811866,67.024141,motorcycle_theft,HIGH,none,yes,karachi_police_fir,4,Tuesday
+PAK/1025/2023,2023-03-17 20:02:19,Pak Colony,Pak Colony,24.909512,66.99942,car_theft,MEDIUM,none,yes,karachi_police_fir,20,Friday
+NOR/1013/2023,2023-03-18 01:42:23,North Nazimabad,North Nazimabad,24.955452,67.058427,car_theft,MEDIUM,blunt_object,yes,karachi_police_fir,1,Saturday
+NAP/1023/2023,2023-03-19 09:17:58,Napier,Saddar,24.861295,67.007603,motorcycle_theft,HIGH,none,yes,karachi_police_fir,9,Sunday
+FER/1008/2023,2023-03-20 10:44:45,Ferozabad,Gulshan-e-Iqbal,24.92065,67.08565,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,10,Monday
+PIR/1015/2023,2023-03-23 15:28:48,Pirabad,Orangi Town,24.926373,66.981556,car_theft,MEDIUM,none,yes,karachi_police_fir,15,Thursday
+LIA/1006/2023,2023-03-25 08:53:25,Liaquatabad,Liaquatabad,24.892981,67.046322,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,8,Saturday
+KHA/1027/2023,2023-03-28 15:18:59,Kharadar,Saddar,24.849491,67.008399,mugging,MEDIUM,none,yes,karachi_police_fir,15,Tuesday
+BAL/1031/2023,2023-03-29 21:19:52,Baldia,Baldia Town,24.904657,66.992411,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Wednesday
+BAH/1003/2023,2023-03-30 04:56:25,Bahria Town,Bahria Town,24.863111,67.268269,kidnapping,CRITICAL,firearm,yes,karachi_police_fir,4,Thursday
+GUL/1001/2023,2023-03-31 21:59:51,Gulshan Iqbal,Gulshan-e-Iqbal,24.940565,67.104392,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Friday
+KAL/1012/2023,2023-03-31 23:13:43,Kalakot,Lyari,24.853113,66.995955,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,23,Friday
+PAK/1011/2023,2023-04-01 23:15:19,Pak Colony,Pak Colony,24.915123,66.999351,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,23,Saturday
+SUR/1015/2023,2023-04-02 21:26:29,Surjani,Surjani Town,24.990021,67.028229,mobile_snatching,HIGH,none,yes,karachi_police_fir,21,Sunday
+CLI/1020/2023,2023-04-03 16:04:16,Clifton,Clifton,24.807938,67.021214,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,16,Monday
+NAP/1021/2023,2023-04-05 16:41:58,Napier,Saddar,24.869698,67.010317,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Wednesday
+KAL/1023/2023,2023-04-05 20:47:16,Kalakot,Lyari,24.855895,66.99645,motorcycle_theft,CRITICAL,knife,yes,karachi_police_fir,20,Wednesday
+ARA/1008/2023,2023-04-05 21:29:58,Arambagh,Saddar,24.856626,67.013561,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,21,Wednesday
+NOR/1001/2023,2023-04-06 02:37:19,North Nazimabad,North Nazimabad,24.943084,67.056778,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Thursday
+NEW/1017/2023,2023-04-10 01:50:15,New Karachi,New Karachi,24.96371,67.063734,robbery,HIGH,firearm,yes,karachi_police_fir,1,Monday
+SUR/1010/2023,2023-04-10 05:00:39,Surjani,Surjani Town,24.999065,67.03272,motorcycle_theft,HIGH,none,yes,karachi_police_fir,5,Monday
+DHA/1008/2023,2023-04-14 04:58:48,DHA Phase 6,DHA Phase 6,24.781014,67.067851,motorcycle_theft,HIGH,none,yes,karachi_police_fir,4,Friday
+KHA/1028/2023,2023-04-14 20:31:26,Kharadar,Saddar,24.858286,67.009979,motorcycle_theft,HIGH,none,yes,karachi_police_fir,20,Friday
+CLI/1011/2023,2023-04-16 00:59:24,Clifton,Clifton,24.811448,67.026841,car_theft,MEDIUM,none,yes,karachi_police_fir,0,Sunday
+NOR/1030/2023,2023-04-18 01:13:32,North Nazimabad,North Nazimabad,24.951873,67.062818,mobile_snatching,HIGH,knife,yes,karachi_police_fir,1,Tuesday
+KHA/1008/2023,2023-04-18 08:13:41,Kharadar,Saddar,24.8502,67.000626,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Tuesday
+KOR/1030/2023,2023-04-19 01:50:39,Korangi,Korangi,24.832476,67.118402,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Wednesday
+TEE/1026/2023,2023-04-21 01:36:37,Teen Talwar,Teen Talwar,24.810585,67.02795,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Friday
+BAL/1008/2023,2023-04-21 15:41:15,Baldia,Baldia Town,24.914952,66.976755,mugging,MEDIUM,none,yes,karachi_police_fir,15,Friday
+GUL/1022/2023,2023-04-23 23:12:17,Gulberg,Gulberg,24.909314,67.090205,mobile_snatching,HIGH,knife,yes,karachi_police_fir,23,Sunday
+CLI/1017/2023,2023-04-24 20:42:31,Clifton,Clifton,24.808541,67.022242,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,20,Monday
+SUR/1017/2023,2023-04-25 21:35:45,Surjani,Surjani Town,24.999652,67.031192,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Tuesday
+KEM/1008/2023,2023-04-25 22:56:30,Kemari,Kemari,24.842814,66.969507,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,22,Tuesday
+GUL/1013/2023,2023-04-26 20:58:04,Gulberg,Gulberg,24.909023,67.091176,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,20,Wednesday
+ARA/1005/2023,2023-04-27 01:50:45,Arambagh,Saddar,24.858343,67.007309,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Thursday
+BAL/1015/2023,2023-04-29 16:41:26,Baldia,Baldia Town,24.911457,66.979074,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Saturday
+SOH/1029/2023,2023-05-03 00:51:09,Sohrab Goth,Sohrab Goth,24.962067,67.05805,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Wednesday
+MOM/1001/2023,2023-05-03 22:00:59,Mominabad,Orangi Town,24.931249,67.000829,motorcycle_theft,CRITICAL,knife,yes,karachi_police_fir,22,Wednesday
+KEM/1026/2023,2023-05-10 11:19:03,Kemari,Kemari,24.841099,66.965021,motorcycle_theft,HIGH,none,yes,karachi_police_fir,11,Wednesday
+LIA/1011/2023,2023-05-10 13:47:12,Liaquatabad,Liaquatabad,24.902893,67.044369,motorcycle_theft,HIGH,none,yes,karachi_police_fir,13,Wednesday
+PIR/1046/2023,2023-05-12 03:09:30,Pirabad,Orangi Town,24.926064,66.980174,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Friday
+NOR/1031/2023,2023-05-16 02:05:35,North Nazimabad,North Nazimabad,24.950648,67.054598,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Tuesday
+LAN/1002/2023,2023-05-17 23:09:19,Landhi,Landhi,24.85951,67.165197,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Wednesday
+SOH/1043/2023,2023-05-18 14:42:40,Sohrab Goth,Sohrab Goth,24.953487,67.047267,motorcycle_theft,HIGH,none,yes,karachi_police_fir,14,Thursday
+SUR/1004/2023,2023-05-27 01:15:08,Surjani,Surjani Town,24.986879,67.049197,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Saturday
+BAL/1004/2023,2023-05-28 07:21:13,Baldia,Baldia Town,24.897062,66.990602,motorcycle_theft,HIGH,none,yes,karachi_police_fir,7,Sunday
+LAN/1020/2023,2023-05-28 23:50:41,Landhi,Landhi,24.863347,67.176333,robbery,HIGH,firearm,yes,karachi_police_fir,23,Sunday
+GUL/1028/2023,2023-05-29 23:47:40,Gulshan Iqbal,Gulshan-e-Iqbal,24.939059,67.097587,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Monday
+GUL/1042/2023,2023-06-01 03:29:23,Gulshan Iqbal,Gulshan-e-Iqbal,24.924126,67.105521,mobile_snatching,HIGH,none,yes,karachi_police_fir,3,Thursday
+BAG/1025/2023,2023-06-01 23:22:02,Baghdadi,Lyari,24.864424,66.996987,mobile_snatching,CRITICAL,none,yes,karachi_police_fir,23,Thursday
+KAL/1044/2023,2023-06-02 05:41:56,Kalakot,Lyari,24.852182,66.998895,motorcycle_theft,HIGH,none,yes,karachi_police_fir,5,Friday
+SOH/1026/2023,2023-06-02 16:13:38,Sohrab Goth,Sohrab Goth,24.956828,67.059174,assault,MEDIUM,blunt_object,yes,karachi_police_fir,16,Friday
+ORA/1014/2023,2023-06-04 02:40:39,Orangi 5,Orangi Town,24.947298,66.9976,mobile_snatching,HIGH,none,yes,karachi_police_fir,2,Sunday
+GUL/1038/2023,2023-06-04 23:58:12,Gulshan Iqbal,Gulshan-e-Iqbal,24.92526,67.101068,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Sunday
+SUR/1039/2023,2023-06-07 07:53:46,Surjani,Surjani Town,24.990128,67.047519,motorcycle_theft,HIGH,none,yes,karachi_police_fir,7,Wednesday
+BAL/1029/2023,2023-06-09 04:50:35,Baldia,Baldia Town,24.908028,66.982297,mobile_snatching,HIGH,none,yes,karachi_police_fir,4,Friday
+PAK/1014/2023,2023-06-09 12:46:42,Pak Colony,Pak Colony,24.902842,67.001838,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Friday
+GUL/1009/2023,2023-06-11 17:46:20,Gulberg,Gulberg,24.910566,67.078633,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,17,Sunday
+BAL/1033/2023,2023-06-11 22:54:28,Baldia,Baldia Town,24.906488,66.980418,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Sunday
+SUR/1026/2023,2023-06-12 00:45:27,Surjani,Surjani Town,24.988066,67.035341,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,0,Monday
+MOM/1044/2023,2023-06-12 20:57:38,Mominabad,Orangi Town,24.927107,67.001498,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Monday
+MOM/1038/2023,2023-06-12 20:58:16,Mominabad,Orangi Town,24.932427,66.992184,house_burglary,MEDIUM,none,yes,karachi_police_fir,20,Monday
+NAP/1028/2023,2023-06-15 00:23:35,Napier,Saddar,24.862974,67.009012,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Thursday
+KEM/1013/2023,2023-06-15 20:39:35,Kemari,Kemari,24.842995,66.96326,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,20,Thursday
+GUL/1004/2023,2023-06-16 00:03:38,Gulshan Iqbal,Gulshan-e-Iqbal,24.938717,67.102133,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,0,Friday
+GUL/1027/2023,2023-06-16 05:22:01,Gulberg,Gulberg,24.921913,67.091096,motorcycle_theft,HIGH,none,yes,karachi_police_fir,5,Friday
+KOR/1023/2023,2023-06-16 07:09:07,Korangi,Korangi,24.834703,67.098899,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,7,Friday
+GAR/1008/2023,2023-06-18 08:46:17,Garden,Saddar,24.872857,67.019511,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Sunday
+KOR/1012/2023,2023-06-20 17:01:19,Korangi,Korangi,24.826871,67.105413,mobile_snatching,HIGH,knife,yes,karachi_police_fir,17,Tuesday
+GUL/1017/2023,2023-06-21 22:25:15,Gulshan Iqbal,Gulshan-e-Iqbal,24.933024,67.112832,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Wednesday
+NAP/1024/2023,2023-06-22 16:59:55,Napier,Saddar,24.866941,67.009874,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,16,Thursday
+GUL/1024/2023,2023-06-22 19:42:22,Gulberg,Gulberg,24.909539,67.082195,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Thursday
+ORA/1034/2023,2023-06-24 19:31:10,Orangi 5,Orangi Town,24.947416,67.000654,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Saturday
+LAN/1030/2023,2023-06-26 17:24:00,Landhi,Landhi,24.862911,67.168525,vehicle_hijacking,HIGH,knife,yes,karachi_police_fir,17,Monday
+ORA/1031/2023,2023-06-27 20:07:32,Orangi 5,Orangi Town,24.950691,66.995765,robbery,CRITICAL,firearm,yes,karachi_police_fir,20,Tuesday
+TEE/1036/2023,2023-07-01 10:18:07,Teen Talwar,Teen Talwar,24.807414,67.027301,motorcycle_theft,HIGH,none,yes,karachi_police_fir,10,Saturday
+KHA/1010/2023,2023-07-01 15:34:56,Kharadar,Saddar,24.860786,67.005853,mugging,MEDIUM,none,yes,karachi_police_fir,15,Saturday
+PIR/1018/2023,2023-07-01 22:05:29,Pirabad,Orangi Town,24.934227,66.985654,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,22,Saturday
+BAL/1023/2023,2023-07-02 08:12:43,Baldia,Baldia Town,24.896322,66.980592,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Sunday
+GAR/1015/2023,2023-07-04 02:49:25,Garden,Saddar,24.865646,67.018666,mobile_snatching,HIGH,knife,yes,karachi_police_fir,2,Tuesday
+NEW/1018/2023,2023-07-06 10:42:28,New Karachi,New Karachi,24.969172,67.069005,motorcycle_theft,HIGH,none,yes,karachi_police_fir,10,Thursday
+PAK/1030/2023,2023-07-07 16:33:24,Pak Colony,Pak Colony,24.910913,66.998255,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Friday
+KEM/1028/2023,2023-07-08 00:04:19,Kemari,Kemari,24.846023,66.966799,car_theft,MEDIUM,blunt_object,yes,karachi_police_fir,0,Saturday
+GUL/1026/2023,2023-07-08 22:37:43,Gulberg,Gulberg,24.911859,67.08084,mugging,MEDIUM,knife,yes,karachi_police_fir,22,Saturday
+MOM/1036/2023,2023-07-09 12:01:58,Mominabad,Orangi Town,24.929277,66.999223,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Sunday
+LAN/1022/2023,2023-07-17 21:41:19,Landhi,Landhi,24.863575,67.163117,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Monday
+GIZ/1011/2023,2023-07-20 00:53:21,Gizri,DHA Phase 2,24.802903,67.056109,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Thursday
+PIR/1014/2023,2023-07-21 20:52:58,Pirabad,Orangi Town,24.93627,66.990527,vehicle_hijacking,CRITICAL,firearm,yes,karachi_police_fir,20,Friday
+DHA/1004/2023,2023-07-22 04:18:05,DHA Phase 4,DHA Phase 4,24.797646,67.075346,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,4,Saturday
+KEM/1006/2023,2023-07-24 22:26:51,Kemari,Kemari,24.839023,66.968476,mugging,MEDIUM,knife,yes,karachi_police_fir,22,Monday
+KEM/1030/2023,2023-07-25 00:34:07,Kemari,Kemari,24.843392,66.968847,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,0,Tuesday
+GUL/1025/2023,2023-07-25 19:58:05,Gulshan Iqbal,Gulshan-e-Iqbal,24.933738,67.106109,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,19,Tuesday
+TEE/1004/2023,2023-07-26 02:58:13,Teen Talwar,Teen Talwar,24.808098,67.030984,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Wednesday
+SOH/1023/2023,2023-07-30 01:58:59,Sohrab Goth,Sohrab Goth,24.946021,67.049314,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Sunday
+NEW/1030/2023,2023-08-03 16:35:39,New Karachi,New Karachi,24.975712,67.079414,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,16,Thursday
+SUR/1038/2023,2023-08-03 23:57:08,Surjani,Surjani Town,24.990332,67.047839,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Thursday
+SOH/1021/2023,2023-08-04 14:59:33,Sohrab Goth,Sohrab Goth,24.9583,67.053777,car_theft,MEDIUM,none,yes,karachi_police_fir,14,Friday
+KHA/1031/2023,2023-08-05 19:14:13,Kharadar,Saddar,24.850374,67.006114,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Saturday
+PIR/1016/2023,2023-08-07 00:18:12,Pirabad,Orangi Town,24.927783,66.981749,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,0,Monday
+BAL/1021/2023,2023-08-07 18:45:59,Baldia,Baldia Town,24.908934,66.984301,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Monday
+PAK/1002/2023,2023-08-09 03:38:27,Pak Colony,Pak Colony,24.904081,67.000026,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,3,Wednesday
+MOM/1006/2023,2023-08-10 03:33:20,Mominabad,Orangi Town,24.933222,66.987064,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,3,Thursday
+NOR/1010/2023,2023-08-11 08:01:51,North Nazimabad,North Nazimabad,24.949218,67.062201,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Friday
+NEW/1027/2023,2023-08-11 23:20:41,New Karachi,New Karachi,24.979413,67.063174,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Friday
+ARA/1003/2023,2023-08-12 20:46:45,Arambagh,Saddar,24.855082,67.004112,motorcycle_theft,HIGH,none,yes,karachi_police_fir,20,Saturday
+LIA/1024/2023,2023-08-16 00:14:03,Liaquatabad,Liaquatabad,24.905293,67.033443,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Wednesday
+ORA/1023/2023,2023-08-16 11:51:40,Orangi 5,Orangi Town,24.940725,67.006251,motorcycle_theft,HIGH,none,yes,karachi_police_fir,11,Wednesday
+SUR/1006/2023,2023-08-17 12:33:10,Surjani,Surjani Town,24.9986,67.04101,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Thursday
+MAL/1005/2023,2023-08-21 04:40:49,Malir,Malir,24.911075,67.198347,motorcycle_theft,HIGH,none,yes,karachi_police_fir,4,Monday
+GUL/1010/2023,2023-08-21 16:46:19,Gulberg,Gulberg,24.911217,67.088935,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,16,Monday
+GAR/1009/2023,2023-08-21 17:33:03,Garden,Saddar,24.871427,67.015338,robbery,HIGH,blunt_object,yes,karachi_police_fir,17,Monday
+PIR/1021/2023,2023-08-21 17:47:02,Pirabad,Orangi Town,24.933177,66.98992,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Monday
+LAN/1016/2023,2023-08-21 23:33:24,Landhi,Landhi,24.858565,67.167063,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,23,Monday
+NAP/1027/2023,2023-08-24 04:53:43,Napier,Saddar,24.861607,67.004259,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,4,Thursday
+KHA/1016/2023,2023-08-25 12:09:48,Kharadar,Saddar,24.858958,67.008664,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,12,Friday
+GAR/1012/2023,2023-08-25 14:04:04,Garden,Saddar,24.875649,67.018894,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,14,Friday
+TEE/1023/2023,2023-08-26 16:43:28,Teen Talwar,Teen Talwar,24.806062,67.024852,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Saturday
+SUR/1028/2023,2023-08-27 00:38:04,Surjani,Surjani Town,25.000931,67.038473,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Sunday
+NAP/1001/2023,2023-08-27 12:52:20,Napier,Saddar,24.86414,67.012615,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Sunday
+MAL/1017/2023,2023-08-28 20:34:08,Malir,Malir,24.90008,67.178384,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,20,Monday
+TEE/1019/2023,2023-08-28 22:49:33,Teen Talwar,Teen Talwar,24.812565,67.032248,robbery,CRITICAL,firearm,yes,karachi_police_fir,22,Monday
+BAL/1032/2023,2023-08-29 00:06:43,Baldia,Baldia Town,24.902912,66.986729,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Tuesday
+MAL/1007/2023,2023-08-31 12:05:17,Malir,Malir,24.892022,67.202419,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Thursday
+SUR/1003/2023,2023-09-03 01:29:45,Surjani,Surjani Town,24.983801,67.042963,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Sunday
+NEW/1024/2023,2023-09-05 20:01:50,New Karachi,New Karachi,24.967138,67.069322,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,20,Tuesday
+KAL/1005/2023,2023-09-06 01:39:10,Kalakot,Lyari,24.847988,66.990741,mobile_snatching,HIGH,none,yes,karachi_police_fir,1,Wednesday
+KEM/1011/2023,2023-09-08 08:21:51,Kemari,Kemari,24.834065,66.968503,vehicle_hijacking,HIGH,knife,yes,karachi_police_fir,8,Friday
+TEE/1031/2023,2023-09-08 17:18:08,Teen Talwar,Teen Talwar,24.806589,67.028751,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,17,Friday
+GAR/1017/2023,2023-09-08 17:58:42,Garden,Saddar,24.869627,67.019822,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Friday
+GIZ/1010/2023,2023-09-10 17:11:18,Gizri,DHA Phase 2,24.811025,67.045713,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Sunday
+TEE/1020/2023,2023-09-11 01:46:16,Teen Talwar,Teen Talwar,24.812708,67.031706,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,1,Monday
+MOM/1032/2023,2023-09-11 10:33:10,Mominabad,Orangi Town,24.944091,66.988585,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,10,Monday
+SUR/1001/2023,2023-09-13 19:00:46,Surjani,Surjani Town,24.980314,67.03394,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,19,Wednesday
+KOR/1025/2023,2023-09-13 23:06:40,Korangi,Korangi,24.838207,67.110201,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Wednesday
+PIR/1040/2023,2023-09-14 23:38:53,Pirabad,Orangi Town,24.935865,66.987277,mobile_snatching,CRITICAL,knife,yes,karachi_police_fir,23,Thursday
+SUR/1009/2023,2023-09-17 00:24:40,Surjani,Surjani Town,25.002055,67.052139,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Sunday
+GAR/1021/2023,2023-09-17 09:43:50,Garden,Saddar,24.869585,67.016889,car_theft,MEDIUM,none,yes,karachi_police_fir,9,Sunday
+KAL/1046/2023,2023-09-17 15:31:49,Kalakot,Lyari,24.851589,66.995413,motorcycle_theft,HIGH,none,yes,karachi_police_fir,15,Sunday
+SUR/1019/2023,2023-09-19 04:00:34,Surjani,Surjani Town,24.993271,67.047196,motorcycle_theft,HIGH,none,yes,karachi_police_fir,4,Tuesday
+SUR/1018/2023,2023-09-19 23:45:38,Surjani,Surjani Town,24.989259,67.048735,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Tuesday
+KHA/1026/2023,2023-09-20 01:38:11,Kharadar,Saddar,24.851365,67.001487,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Wednesday
+SOH/1020/2023,2023-09-21 20:10:35,Sohrab Goth,Sohrab Goth,24.956768,67.055711,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Thursday
+BAL/1028/2023,2023-09-21 23:18:48,Baldia,Baldia Town,24.900572,66.980484,mugging,MEDIUM,knife,yes,karachi_police_fir,23,Thursday
+SOH/1004/2023,2023-09-22 22:28:05,Sohrab Goth,Sohrab Goth,24.952848,67.056103,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,22,Friday
+NAP/1015/2023,2023-09-23 02:25:14,Napier,Saddar,24.862373,67.009625,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,2,Saturday
+GAR/1002/2023,2023-09-23 22:38:47,Garden,Saddar,24.865253,67.025063,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Saturday
+ORA/1040/2023,2023-09-27 08:35:13,Orangi 5,Orangi Town,24.938442,66.999385,robbery,HIGH,blunt_object,yes,karachi_police_fir,8,Wednesday
+NEW/1021/2023,2023-09-29 15:44:16,New Karachi,New Karachi,24.965488,67.075029,motorcycle_theft,HIGH,none,yes,karachi_police_fir,15,Friday
+TEE/1018/2023,2023-09-30 03:37:33,Teen Talwar,Teen Talwar,24.81061,67.032232,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,3,Saturday
+TEE/1003/2023,2023-09-30 17:33:22,Teen Talwar,Teen Talwar,24.80711,67.023422,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,17,Saturday
+BAL/1022/2023,2023-09-30 21:30:57,Baldia,Baldia Town,24.914264,66.978409,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,21,Saturday
+FER/1017/2023,2023-10-02 11:11:41,Ferozabad,Gulshan-e-Iqbal,24.925181,67.084276,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,11,Monday
+KOR/1007/2023,2023-10-02 23:22:16,Korangi,Korangi,24.827021,67.121407,car_theft,MEDIUM,none,yes,karachi_police_fir,23,Monday
+KHA/1005/2023,2023-10-06 02:51:56,Kharadar,Saddar,24.860673,67.003355,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,2,Friday
+LAN/1011/2023,2023-10-07 10:45:27,Landhi,Landhi,24.856887,67.172483,motorcycle_theft,HIGH,none,yes,karachi_police_fir,10,Saturday
+KAL/1007/2023,2023-10-08 01:41:04,Kalakot,Lyari,24.857753,67.001796,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Sunday
+KHA/1003/2023,2023-10-11 00:07:42,Kharadar,Saddar,24.855926,67.000609,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Wednesday
+NEW/1007/2023,2023-10-11 08:35:42,New Karachi,New Karachi,24.969773,67.077376,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,8,Wednesday
+BAG/1002/2023,2023-10-12 00:06:17,Baghdadi,Lyari,24.858564,66.989202,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,0,Thursday
+LIA/1018/2023,2023-10-19 08:04:22,Liaquatabad,Liaquatabad,24.904053,67.033439,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Thursday
+BAG/1017/2023,2023-10-20 09:17:03,Baghdadi,Lyari,24.853157,66.990673,motorcycle_theft,HIGH,none,yes,karachi_police_fir,9,Friday
+BAG/1020/2023,2023-10-21 19:56:32,Baghdadi,Lyari,24.848319,66.990238,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,19,Saturday
+LIA/1013/2023,2023-10-22 01:02:14,Liaquatabad,Liaquatabad,24.899102,67.038903,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Sunday
+GAR/1011/2023,2023-10-23 00:48:54,Garden,Saddar,24.871389,67.025402,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Monday
+KHA/1018/2023,2023-10-23 03:32:41,Kharadar,Saddar,24.85761,67.010108,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,3,Monday
+PIR/1002/2023,2023-10-30 16:11:44,Pirabad,Orangi Town,24.935427,66.985015,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Monday
+FER/1001/2023,2023-10-31 00:58:46,Ferozabad,Gulshan-e-Iqbal,24.916635,67.086618,mugging,MEDIUM,blunt_object,yes,karachi_police_fir,0,Tuesday
+SUR/1011/2023,2023-11-03 01:12:03,Surjani,Surjani Town,24.983261,67.05177,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Friday
+PAK/1028/2023,2023-11-03 21:49:17,Pak Colony,Pak Colony,24.907011,66.992668,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,21,Friday
+NOR/1020/2023,2023-11-06 21:55:17,North Nazimabad,North Nazimabad,24.949625,67.05636,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Monday
+LAN/1028/2023,2023-11-08 22:28:28,Landhi,Landhi,24.867716,67.160184,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,22,Wednesday
+KOR/1017/2023,2023-11-09 10:33:37,Korangi,Korangi,24.827629,67.106893,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,10,Thursday
+GUL/1019/2023,2023-11-09 23:13:24,Gulshan Iqbal,Gulshan-e-Iqbal,24.922996,67.102707,robbery,HIGH,blunt_object,yes,karachi_police_fir,23,Thursday
+KEM/1021/2023,2023-11-10 01:17:05,Kemari,Kemari,24.838904,66.972017,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,1,Friday
+MOM/1028/2023,2023-11-10 15:08:01,Mominabad,Orangi Town,24.93042,66.984001,motorcycle_theft,HIGH,none,yes,karachi_police_fir,15,Friday
+DHA/1003/2023,2023-11-10 19:44:06,DHA Phase 6,DHA Phase 6,24.782595,67.068482,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Friday
+KEM/1017/2023,2023-11-10 20:17:04,Kemari,Kemari,24.832523,66.963388,motorcycle_theft,HIGH,none,yes,karachi_police_fir,20,Friday
+GUL/1048/2023,2023-11-10 23:48:28,Gulshan Iqbal,Gulshan-e-Iqbal,24.935427,67.098961,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Friday
+ORA/1048/2023,2023-11-13 03:04:48,Orangi 5,Orangi Town,24.949208,66.996933,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Monday
+ARA/1018/2023,2023-11-13 16:47:32,Arambagh,Saddar,24.857817,67.014097,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Monday
+GUL/1023/2023,2023-11-16 20:26:42,Gulberg,Gulberg,24.907739,67.079119,motorcycle_theft,HIGH,none,yes,karachi_police_fir,20,Thursday
+GUL/1010/2023,2023-11-17 03:00:47,Gulshan Iqbal,Gulshan-e-Iqbal,24.926922,67.106514,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Friday
+NAP/1019/2023,2023-11-19 16:14:46,Napier,Saddar,24.866046,67.007612,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Sunday
+NEW/1028/2023,2023-11-20 06:38:54,New Karachi,New Karachi,24.979962,67.078892,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,6,Monday
+KEM/1022/2023,2023-11-20 20:41:30,Kemari,Kemari,24.84215,66.975921,mobile_snatching,HIGH,none,yes,karachi_police_fir,20,Monday
+GUL/1049/2023,2023-11-22 03:47:58,Gulshan Iqbal,Gulshan-e-Iqbal,24.926255,67.100764,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,3,Wednesday
+MAL/1009/2023,2023-11-22 08:47:59,Malir,Malir,24.902933,67.191107,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Wednesday
+KHA/1015/2023,2023-11-23 18:34:28,Kharadar,Saddar,24.855288,67.000431,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Thursday
+PIR/1025/2023,2023-11-24 00:24:30,Pirabad,Orangi Town,24.936567,66.989856,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Friday
+BAL/1018/2023,2023-11-24 11:07:55,Baldia,Baldia Town,24.904553,66.99359,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,11,Friday
+NAP/1002/2023,2023-11-24 23:17:03,Napier,Saddar,24.861259,67.006105,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Friday
+LAN/1017/2023,2023-11-26 08:34:11,Landhi,Landhi,24.859759,67.161503,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Sunday
+MAL/1001/2023,2023-11-26 22:21:18,Malir,Malir,24.901099,67.192492,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Sunday
+DHA/1002/2023,2023-11-27 23:02:55,DHA Phase 6,DHA Phase 6,24.770434,67.064591,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,23,Monday
+CLI/1003/2023,2023-11-28 00:13:46,Clifton,Clifton,24.818947,67.025379,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Tuesday
+ORA/1027/2023,2023-11-28 01:28:08,Orangi 5,Orangi Town,24.939672,66.997895,mobile_snatching,HIGH,knife,yes,karachi_police_fir,1,Tuesday
+SUR/1027/2023,2023-11-29 18:09:04,Surjani,Surjani Town,24.996353,67.05131,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,18,Wednesday
+GUL/1044/2023,2023-12-02 11:40:43,Gulshan Iqbal,Gulshan-e-Iqbal,24.939096,67.109664,assault,MEDIUM,knife,yes,karachi_police_fir,11,Saturday
+SOH/1015/2023,2023-12-02 20:11:15,Sohrab Goth,Sohrab Goth,24.951512,67.046071,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Saturday
+CLI/1002/2023,2023-12-03 18:26:00,Clifton,Clifton,24.806727,67.034525,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,18,Sunday
+KOR/1013/2023,2023-12-05 08:52:47,Korangi,Korangi,24.837943,67.1038,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,8,Tuesday
+MOM/1035/2023,2023-12-05 13:40:03,Mominabad,Orangi Town,24.944155,67.001171,motorcycle_theft,HIGH,none,yes,karachi_police_fir,13,Tuesday
+KOR/1032/2023,2023-12-06 09:07:47,Korangi,Korangi,24.833295,67.119596,motorcycle_theft,HIGH,none,yes,karachi_police_fir,9,Wednesday
+GUL/1043/2023,2023-12-07 12:07:48,Gulshan Iqbal,Gulshan-e-Iqbal,24.935278,67.108488,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Thursday
+MOM/1015/2023,2023-12-07 22:11:47,Mominabad,Orangi Town,24.929593,66.994854,motorcycle_theft,CRITICAL,knife,yes,karachi_police_fir,22,Thursday
+GUL/1007/2023,2023-12-08 01:04:04,Gulberg,Gulberg,24.913403,67.089052,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Friday
+GUL/1018/2023,2023-12-08 16:48:42,Gulshan Iqbal,Gulshan-e-Iqbal,24.930455,67.106338,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,16,Friday
+SOH/1035/2023,2023-12-09 17:19:46,Sohrab Goth,Sohrab Goth,24.951979,67.055634,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Saturday
+PAK/1012/2023,2023-12-10 10:26:18,Pak Colony,Pak Colony,24.904282,66.996375,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,10,Sunday
+NOR/1032/2023,2023-12-12 20:34:36,North Nazimabad,North Nazimabad,24.945492,67.065174,mobile_snatching,HIGH,knife,yes,karachi_police_fir,20,Tuesday
+PIR/1028/2023,2023-12-14 01:37:05,Pirabad,Orangi Town,24.922613,66.980708,vehicle_hijacking,HIGH,knife,yes,karachi_police_fir,1,Thursday
+FER/1012/2023,2023-12-16 16:40:37,Ferozabad,Gulshan-e-Iqbal,24.915562,67.084082,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Saturday
+KHA/1017/2023,2023-12-17 04:14:39,Kharadar,Saddar,24.849723,67.009408,motorcycle_theft,HIGH,none,yes,karachi_police_fir,4,Sunday
+GAR/1010/2023,2023-12-18 02:53:06,Garden,Saddar,24.866462,67.015546,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Monday
+PAK/1019/2023,2023-12-20 21:05:26,Pak Colony,Pak Colony,24.91216,66.988638,assault,MEDIUM,blunt_object,yes,karachi_police_fir,21,Wednesday
+SUR/1036/2023,2023-12-21 02:01:19,Surjani,Surjani Town,24.99652,67.033358,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Thursday
+GUL/1001/2023,2023-12-21 17:23:24,Gulberg,Gulberg,24.917188,67.084664,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Thursday
+NAP/1022/2023,2023-12-22 22:14:38,Napier,Saddar,24.863511,67.006022,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,22,Friday
+DHA/1007/2023,2023-12-22 22:43:10,DHA Phase 6,DHA Phase 6,24.779892,67.078214,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Friday
+SOH/1028/2023,2023-12-23 16:55:17,Sohrab Goth,Sohrab Goth,24.958496,67.061994,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Saturday
+GUL/1035/2023,2023-12-25 01:01:32,Gulshan Iqbal,Gulshan-e-Iqbal,24.928494,67.103256,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Monday
+SUR/1016/2023,2023-12-25 21:07:46,Surjani,Surjani Town,24.98511,67.045013,mobile_snatching,HIGH,knife,yes,karachi_police_fir,21,Monday
+KAL/1031/2023,2023-12-26 18:07:04,Kalakot,Lyari,24.858998,66.997842,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,18,Tuesday
+TEE/1017/2023,2023-12-27 11:31:44,Teen Talwar,Teen Talwar,24.813064,67.025436,motorcycle_theft,HIGH,none,yes,karachi_police_fir,11,Wednesday
+BAL/1034/2023,2023-12-28 22:23:41,Baldia,Baldia Town,24.896073,66.991198,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,22,Thursday
+ARA/1015/2023,2023-12-31 02:34:01,Arambagh,Saddar,24.854978,67.009776,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,2,Sunday
+KAL/1037/2023,2023-12-31 21:50:50,Kalakot,Lyari,24.847603,67.000471,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,21,Sunday
+SOH/1036/2024,2024-01-03 02:30:07,Sohrab Goth,Sohrab Goth,24.948873,67.046472,carjacking,HIGH,knife,yes,karachi_police_fir,2,Wednesday
+GUL/1018/2024,2024-01-05 00:28:54,Gulberg,Gulberg,24.922378,67.090532,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Friday
+CLI/1018/2024,2024-01-05 10:55:31,Clifton,Clifton,24.823165,67.03478,motorcycle_theft,HIGH,none,yes,karachi_police_fir,10,Friday
+SOH/1027/2024,2024-01-05 20:47:03,Sohrab Goth,Sohrab Goth,24.954052,67.04988,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,20,Friday
+SOH/1022/2024,2024-01-09 22:30:56,Sohrab Goth,Sohrab Goth,24.95633,67.056724,mobile_snatching,CRITICAL,knife,yes,karachi_police_fir,22,Tuesday
+GAR/1014/2024,2024-01-12 18:50:37,Garden,Saddar,24.867894,67.021081,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Friday
+SOH/1040/2024,2024-01-13 23:35:09,Sohrab Goth,Sohrab Goth,24.950616,67.055787,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,23,Saturday
+GIZ/1005/2024,2024-01-14 06:30:26,Gizri,DHA Phase 2,24.805754,67.046565,mobile_snatching,HIGH,knife,yes,karachi_police_fir,6,Sunday
+BAL/1013/2024,2024-01-15 09:58:00,Baldia,Baldia Town,24.914213,66.978948,car_theft,MEDIUM,blunt_object,yes,karachi_police_fir,9,Monday
+MAL/1010/2024,2024-01-15 17:21:25,Malir,Malir,24.896639,67.178305,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Monday
+MOM/1039/2024,2024-01-18 23:15:55,Mominabad,Orangi Town,24.929839,66.995358,mobile_snatching,CRITICAL,none,yes,karachi_police_fir,23,Thursday
+KEM/1002/2024,2024-01-20 23:12:37,Kemari,Kemari,24.838449,66.964314,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,23,Saturday
+SOH/1003/2024,2024-01-21 00:56:12,Sohrab Goth,Sohrab Goth,24.950669,67.060752,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Sunday
+KAL/1019/2024,2024-01-22 09:25:36,Kalakot,Lyari,24.852595,66.992162,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,9,Monday
+NEW/1013/2024,2024-01-22 16:55:48,New Karachi,New Karachi,24.978673,67.075677,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Monday
+KAL/1018/2024,2024-01-22 18:33:47,Kalakot,Lyari,24.847637,67.000554,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Monday
+GUL/1002/2024,2024-01-23 00:14:50,Gulberg,Gulberg,24.908502,67.091007,robbery,HIGH,firearm,yes,karachi_police_fir,0,Tuesday
+BAG/1009/2024,2024-01-23 23:15:47,Baghdadi,Lyari,24.849059,66.984409,mugging,MEDIUM,none,yes,karachi_police_fir,23,Tuesday
+ARA/1010/2024,2024-01-26 01:34:59,Arambagh,Saddar,24.854909,67.00852,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Friday
+FER/1019/2024,2024-01-27 12:34:39,Ferozabad,Gulshan-e-Iqbal,24.917015,67.087567,mobile_snatching,HIGH,none,yes,karachi_police_fir,12,Saturday
+ARA/1001/2024,2024-01-28 13:34:29,Arambagh,Saddar,24.854495,67.007095,carjacking,HIGH,firearm,yes,karachi_police_fir,13,Sunday
+GIZ/1009/2024,2024-01-31 22:25:04,Gizri,DHA Phase 2,24.808734,67.051506,mobile_snatching,HIGH,none,yes,karachi_police_fir,22,Wednesday
+KOR/1033/2024,2024-02-01 01:16:07,Korangi,Korangi,24.835837,67.107491,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Thursday
+KHA/1001/2024,2024-02-02 18:19:34,Kharadar,Saddar,24.851004,67.009487,mobile_snatching,HIGH,none,yes,karachi_police_fir,18,Friday
+KAL/1035/2024,2024-02-03 19:47:24,Kalakot,Lyari,24.850292,66.999427,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,19,Saturday
+KOR/1002/2024,2024-02-05 20:45:46,Korangi Creek,DHA Phase 8,24.79424,67.116811,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,20,Monday
+TEE/1006/2024,2024-02-06 03:17:06,Teen Talwar,Teen Talwar,24.811282,67.02315,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Tuesday
+KAL/1022/2024,2024-02-06 20:29:59,Kalakot,Lyari,24.853251,66.992675,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Tuesday
+PIR/1047/2024,2024-02-08 23:32:17,Pirabad,Orangi Town,24.936505,66.991525,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,23,Thursday
+NEW/1004/2024,2024-02-09 02:17:47,New Karachi,New Karachi,24.97127,67.06238,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Friday
+KAL/1004/2024,2024-02-10 21:47:25,Kalakot,Lyari,24.854927,67.001691,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,21,Saturday
+KEM/1003/2024,2024-02-11 10:16:57,Kemari,Kemari,24.837294,66.975348,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,10,Sunday
+KEM/1014/2024,2024-02-18 01:18:31,Kemari,Kemari,24.845205,66.966467,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Sunday
+BAG/1028/2024,2024-02-18 20:47:38,Baghdadi,Lyari,24.852413,66.988829,vehicle_hijacking,CRITICAL,firearm,yes,karachi_police_fir,20,Sunday
+BAL/1007/2024,2024-02-19 22:51:01,Baldia,Baldia Town,24.898327,66.990945,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Monday
+SUR/1007/2024,2024-02-21 00:13:08,Surjani,Surjani Town,24.982306,67.035739,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,0,Wednesday
+BAG/1021/2024,2024-02-21 16:24:02,Baghdadi,Lyari,24.857124,66.993459,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Wednesday
+PIR/1005/2024,2024-02-22 19:08:20,Pirabad,Orangi Town,24.924176,66.992961,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Thursday
+FER/1015/2024,2024-02-23 12:41:14,Ferozabad,Gulshan-e-Iqbal,24.922971,67.08937,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Friday
+LAN/1025/2024,2024-02-25 20:44:55,Landhi,Landhi,24.857349,67.173846,motorcycle_theft,HIGH,none,yes,karachi_police_fir,20,Sunday
+LIA/1026/2024,2024-02-26 22:02:25,Liaquatabad,Liaquatabad,24.892943,67.038606,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Monday
+ORA/1047/2024,2024-02-29 04:19:03,Orangi 5,Orangi Town,24.946921,67.007299,motorcycle_theft,HIGH,none,yes,karachi_police_fir,4,Thursday
+MOM/1011/2024,2024-03-01 21:56:17,Mominabad,Orangi Town,24.928657,67.000488,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,21,Friday
+GUL/1015/2024,2024-03-05 02:37:15,Gulshan Iqbal,Gulshan-e-Iqbal,24.942473,67.111768,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,2,Tuesday
+NEW/1003/2024,2024-03-05 22:35:16,New Karachi,New Karachi,24.968804,67.078528,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,22,Tuesday
+ARA/1021/2024,2024-03-06 17:00:25,Arambagh,Saddar,24.86113,67.014616,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,17,Wednesday
+KOR/1011/2024,2024-03-08 14:28:56,Korangi,Korangi,24.835731,67.099142,mobile_snatching,HIGH,knife,yes,karachi_police_fir,14,Friday
+ORA/1042/2024,2024-03-08 22:37:04,Orangi 5,Orangi Town,24.939856,66.99467,mugging,MEDIUM,blunt_object,yes,karachi_police_fir,22,Friday
+FER/1004/2024,2024-03-09 18:46:38,Ferozabad,Gulshan-e-Iqbal,24.925574,67.095798,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Saturday
+LAN/1001/2024,2024-03-09 23:06:26,Landhi,Landhi,24.851954,67.162374,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Saturday
+PIR/1033/2024,2024-03-10 22:18:39,Pirabad,Orangi Town,24.934385,66.99249,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,22,Sunday
+ORA/1012/2024,2024-03-11 23:32:42,Orangi 5,Orangi Town,24.940653,67.000772,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,23,Monday
+KOR/1001/2024,2024-03-12 19:19:17,Korangi Creek,DHA Phase 8,24.805985,67.109808,carjacking,HIGH,firearm,yes,karachi_police_fir,19,Tuesday
+BAG/1018/2024,2024-03-13 02:23:30,Baghdadi,Lyari,24.862763,67.000953,car_theft,MEDIUM,blunt_object,yes,karachi_police_fir,2,Wednesday
+MOM/1021/2024,2024-03-13 22:59:44,Mominabad,Orangi Town,24.929889,67.003709,vehicle_hijacking,CRITICAL,firearm,yes,karachi_police_fir,22,Wednesday
+GUL/1026/2024,2024-03-14 09:44:22,Gulshan Iqbal,Gulshan-e-Iqbal,24.934027,67.110833,motorcycle_theft,HIGH,none,yes,karachi_police_fir,9,Thursday
+FER/1003/2024,2024-03-17 08:57:46,Ferozabad,Gulshan-e-Iqbal,24.924467,67.090949,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Sunday
+GUL/1016/2024,2024-03-19 02:02:43,Gulberg,Gulberg,24.907847,67.081166,vehicle_hijacking,HIGH,knife,yes,karachi_police_fir,2,Tuesday
+DHA/1008/2024,2024-03-21 17:53:38,DHA Phase 4,DHA Phase 4,24.787581,67.064053,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Thursday
+ORA/1026/2024,2024-03-22 18:40:51,Orangi 5,Orangi Town,24.94283,67.004746,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Friday
+GUL/1019/2024,2024-03-22 22:39:29,Gulberg,Gulberg,24.919661,67.08351,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,22,Friday
+GUL/1016/2024,2024-03-23 09:47:23,Gulshan Iqbal,Gulshan-e-Iqbal,24.936022,67.113549,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,9,Saturday
+LAN/1008/2024,2024-03-24 03:53:46,Landhi,Landhi,24.857516,67.164935,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,3,Sunday
+FER/1006/2024,2024-03-25 14:15:32,Ferozabad,Gulshan-e-Iqbal,24.915306,67.0906,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,14,Monday
+PAK/1024/2024,2024-03-26 11:30:40,Pak Colony,Pak Colony,24.916367,66.991492,motorcycle_theft,HIGH,none,yes,karachi_police_fir,11,Tuesday
+TEE/1032/2024,2024-03-27 19:41:37,Teen Talwar,Teen Talwar,24.813468,67.030298,car_theft,MEDIUM,none,yes,karachi_police_fir,19,Wednesday
+NAP/1033/2024,2024-03-28 22:17:37,Napier,Saddar,24.869076,67.003472,mobile_snatching,HIGH,none,yes,karachi_police_fir,22,Thursday
+SUR/1014/2024,2024-03-29 03:23:27,Surjani,Surjani Town,24.99588,67.042494,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,3,Friday
+BAL/1011/2024,2024-04-01 09:02:42,Baldia,Baldia Town,24.912889,66.994417,mugging,MEDIUM,none,yes,karachi_police_fir,9,Monday
+MOM/1046/2024,2024-04-02 00:49:31,Mominabad,Orangi Town,24.944746,67.003586,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Tuesday
+MOM/1024/2024,2024-04-02 02:34:58,Mominabad,Orangi Town,24.93083,66.993364,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Tuesday
+DHA/1002/2024,2024-04-02 19:48:01,DHA Phase 4,DHA Phase 4,24.795697,67.066136,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Tuesday
+GUL/1017/2024,2024-04-03 12:24:12,Gulberg,Gulberg,24.92231,67.091427,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Wednesday
+MOM/1022/2024,2024-04-04 11:35:07,Mominabad,Orangi Town,24.935407,66.985878,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,11,Thursday
+PIR/1008/2024,2024-04-05 23:35:45,Pirabad,Orangi Town,24.936084,66.994757,vehicle_hijacking,CRITICAL,firearm,yes,karachi_police_fir,23,Friday
+KOR/1008/2024,2024-04-06 18:11:47,Korangi Creek,DHA Phase 8,24.806817,67.107947,robbery,HIGH,firearm,yes,karachi_police_fir,18,Saturday
+BAL/1027/2024,2024-04-08 11:14:42,Baldia,Baldia Town,24.902472,66.985901,motorcycle_theft,HIGH,none,yes,karachi_police_fir,11,Monday
+KHA/1011/2024,2024-04-09 12:31:12,Kharadar,Saddar,24.855968,67.006149,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Tuesday
+NEW/1005/2024,2024-04-13 17:35:32,New Karachi,New Karachi,24.973939,67.074914,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Saturday
+TEE/1001/2024,2024-04-14 18:28:50,Teen Talwar,Teen Talwar,24.806506,67.032467,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,18,Sunday
+NEW/1031/2024,2024-04-16 13:36:52,New Karachi,New Karachi,24.965664,67.071335,motorcycle_theft,HIGH,none,yes,karachi_police_fir,13,Tuesday
+TEE/1008/2024,2024-04-16 23:23:58,Teen Talwar,Teen Talwar,24.81289,67.026307,motorcycle_theft,CRITICAL,knife,yes,karachi_police_fir,23,Tuesday
+GAR/1013/2024,2024-04-19 18:54:14,Garden,Saddar,24.875911,67.024691,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Friday
+FER/1005/2024,2024-04-20 10:37:54,Ferozabad,Gulshan-e-Iqbal,24.913415,67.088909,robbery,HIGH,firearm,yes,karachi_police_fir,10,Saturday
+KHA/1004/2024,2024-04-20 19:44:37,Kharadar,Saddar,24.856165,67.005225,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,19,Saturday
+MOM/1041/2024,2024-04-20 19:59:04,Mominabad,Orangi Town,24.934757,66.991174,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Saturday
+SOH/1002/2024,2024-04-20 21:23:26,Sohrab Goth,Sohrab Goth,24.954387,67.058403,motorcycle_theft,CRITICAL,knife,yes,karachi_police_fir,21,Saturday
+TEE/1014/2024,2024-04-22 22:20:51,Teen Talwar,Teen Talwar,24.806988,67.032763,vehicle_hijacking,CRITICAL,knife,yes,karachi_police_fir,22,Monday
+BAH/1007/2024,2024-04-28 01:15:39,Bahria Town,Bahria Town,24.857494,67.262115,mobile_snatching,HIGH,knife,yes,karachi_police_fir,1,Sunday
+LAN/1032/2024,2024-05-05 00:37:29,Landhi,Landhi,24.85867,67.162,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Sunday
+KAL/1008/2024,2024-05-06 01:51:57,Kalakot,Lyari,24.847316,66.9959,mobile_snatching,HIGH,none,yes,karachi_police_fir,1,Monday
+KAL/1006/2024,2024-05-07 15:49:44,Kalakot,Lyari,24.857012,66.993092,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,15,Tuesday
+PAK/1026/2024,2024-05-08 06:41:15,Pak Colony,Pak Colony,24.902572,66.987719,motorcycle_theft,HIGH,none,yes,karachi_police_fir,6,Wednesday
+LAN/1031/2024,2024-05-10 20:50:29,Landhi,Landhi,24.855321,67.164678,mobile_snatching,HIGH,knife,yes,karachi_police_fir,20,Friday
+BAG/1019/2024,2024-05-13 09:09:16,Baghdadi,Lyari,24.85239,67.000919,motorcycle_theft,HIGH,none,yes,karachi_police_fir,9,Monday
+PAK/1020/2024,2024-05-14 00:39:45,Pak Colony,Pak Colony,24.912569,66.994123,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Tuesday
+KHA/1007/2024,2024-05-15 07:19:21,Kharadar,Saddar,24.849477,67.005123,motorcycle_theft,HIGH,none,yes,karachi_police_fir,7,Wednesday
+LAN/1024/2024,2024-05-15 18:11:16,Landhi,Landhi,24.86611,67.161727,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Wednesday
+KEM/1016/2024,2024-05-16 07:16:44,Kemari,Kemari,24.847305,66.971595,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,7,Thursday
+BAG/1014/2024,2024-05-16 22:29:23,Baghdadi,Lyari,24.856163,66.996974,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,22,Thursday
+TEE/1013/2024,2024-05-26 01:55:16,Teen Talwar,Teen Talwar,24.811647,67.024461,car_theft,MEDIUM,none,yes,karachi_police_fir,1,Sunday
+NAP/1009/2024,2024-05-27 17:31:28,Napier,Saddar,24.864592,67.007756,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Monday
+MOM/1016/2024,2024-05-28 15:39:58,Mominabad,Orangi Town,24.942962,66.995386,vehicle_hijacking,HIGH,knife,yes,karachi_police_fir,15,Tuesday
+MAL/1011/2024,2024-05-29 00:45:22,Malir,Malir,24.9015,67.186085,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Wednesday
+BAG/1016/2024,2024-05-29 07:26:47,Baghdadi,Lyari,24.864521,66.985178,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,7,Wednesday
+ORA/1036/2024,2024-05-30 13:53:36,Orangi 5,Orangi Town,24.942932,66.999897,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,13,Thursday
+KAL/1026/2024,2024-05-31 18:15:14,Kalakot,Lyari,24.852392,66.992528,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,18,Friday
+CLI/1006/2024,2024-05-31 20:48:08,Clifton,Clifton,24.810319,67.022145,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,20,Friday
+NAP/1003/2024,2024-06-02 21:27:10,Napier,Saddar,24.860846,67.010553,mugging,MEDIUM,blunt_object,yes,karachi_police_fir,21,Sunday
+BAL/1035/2024,2024-06-03 23:45:13,Baldia,Baldia Town,24.90343,66.987392,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Monday
+ORA/1041/2024,2024-06-04 09:35:45,Orangi 5,Orangi Town,24.950642,67.003079,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,9,Tuesday
+GUL/1011/2024,2024-06-06 12:48:09,Gulshan Iqbal,Gulshan-e-Iqbal,24.924139,67.102356,robbery,HIGH,firearm,yes,karachi_police_fir,12,Thursday
+SUR/1033/2024,2024-06-06 16:22:46,Surjani,Surjani Town,24.996258,67.03362,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,16,Thursday
+KAL/1027/2024,2024-06-07 22:16:17,Kalakot,Lyari,24.851981,66.991607,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,22,Friday
+ORA/1004/2024,2024-06-09 22:38:54,Orangi 5,Orangi Town,24.951967,66.998083,motorcycle_theft,CRITICAL,knife,yes,karachi_police_fir,22,Sunday
+KAL/1021/2024,2024-06-10 15:06:30,Kalakot,Lyari,24.850539,66.991105,motorcycle_theft,HIGH,none,yes,karachi_police_fir,15,Monday
+PIR/1023/2024,2024-06-11 06:58:15,Pirabad,Orangi Town,24.922627,66.980748,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,6,Tuesday
+DHA/1005/2024,2024-06-14 00:32:53,DHA Phase 4,DHA Phase 4,24.799392,67.070845,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Friday
+KHA/1022/2024,2024-06-14 22:39:45,Kharadar,Saddar,24.851979,67.004457,car_theft,MEDIUM,blunt_object,yes,karachi_police_fir,22,Friday
+NOR/1011/2024,2024-06-19 06:13:06,North Nazimabad,North Nazimabad,24.951118,67.052743,motorcycle_theft,HIGH,none,yes,karachi_police_fir,6,Wednesday
+GIZ/1014/2024,2024-06-22 18:06:41,Gizri,DHA Phase 2,24.804919,67.051866,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Saturday
+KAL/1009/2024,2024-06-25 02:05:52,Kalakot,Lyari,24.8555,66.991933,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,2,Tuesday
+ARA/1024/2024,2024-06-25 12:54:50,Arambagh,Saddar,24.863758,67.014329,mobile_snatching,HIGH,knife,yes,karachi_police_fir,12,Tuesday
+TEE/1007/2024,2024-06-25 18:43:12,Teen Talwar,Teen Talwar,24.812781,67.030188,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Tuesday
+NOR/1023/2024,2024-06-26 00:56:58,North Nazimabad,North Nazimabad,24.945479,67.058803,mugging,MEDIUM,knife,yes,karachi_police_fir,0,Wednesday
+ARA/1025/2024,2024-06-26 09:35:10,Arambagh,Saddar,24.858212,67.007275,motorcycle_theft,HIGH,none,yes,karachi_police_fir,9,Wednesday
+KOR/1016/2024,2024-06-26 10:19:45,Korangi,Korangi,24.83614,67.107223,motorcycle_theft,HIGH,none,yes,karachi_police_fir,10,Wednesday
+ORA/1009/2024,2024-06-27 13:47:07,Orangi 5,Orangi Town,24.947078,66.99752,motorcycle_theft,HIGH,none,yes,karachi_police_fir,13,Thursday
+SUR/1025/2024,2024-06-28 21:33:40,Surjani,Surjani Town,24.987867,67.04591,mobile_snatching,HIGH,none,yes,karachi_police_fir,21,Friday
+FER/1010/2024,2024-06-29 15:43:00,Ferozabad,Gulshan-e-Iqbal,24.927207,67.084843,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,15,Saturday
+GAR/1019/2024,2024-06-29 17:56:15,Garden,Saddar,24.873765,67.015169,mobile_snatching,HIGH,knife,yes,karachi_police_fir,17,Saturday
+GIZ/1001/2024,2024-07-05 03:03:41,Gizri,DHA Phase 2,24.800882,67.046426,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Friday
+NAP/1011/2024,2024-07-07 00:20:08,Napier,Saddar,24.865555,67.012181,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Sunday
+KAL/1042/2024,2024-07-08 13:08:18,Kalakot,Lyari,24.851187,66.994912,mobile_snatching,HIGH,none,yes,karachi_police_fir,13,Monday
+SUR/1021/2024,2024-07-09 02:43:55,Surjani,Surjani Town,24.97941,67.045907,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,2,Tuesday
+LIA/1007/2024,2024-07-10 07:42:44,Liaquatabad,Liaquatabad,24.894303,67.044258,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,7,Wednesday
+KHA/1009/2024,2024-07-11 18:43:00,Kharadar,Saddar,24.858868,67.006797,mobile_snatching,HIGH,none,yes,karachi_police_fir,18,Thursday
+GUL/1021/2024,2024-07-11 19:05:50,Gulberg,Gulberg,24.921524,67.085021,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,19,Thursday
+GAR/1020/2024,2024-07-11 23:15:45,Garden,Saddar,24.871145,67.015691,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Thursday
+CLI/1004/2024,2024-07-16 11:02:56,Clifton,Clifton,24.823857,67.034523,motorcycle_theft,HIGH,none,yes,karachi_police_fir,11,Tuesday
+SOH/1005/2024,2024-07-16 23:26:41,Sohrab Goth,Sohrab Goth,24.946357,67.056247,robbery,CRITICAL,knife,yes,karachi_police_fir,23,Tuesday
+BAG/1022/2024,2024-07-16 23:27:54,Baghdadi,Lyari,24.859066,66.995601,mobile_snatching,CRITICAL,knife,yes,karachi_police_fir,23,Tuesday
+PIR/1026/2024,2024-07-17 00:26:08,Pirabad,Orangi Town,24.930523,66.990045,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Wednesday
+DHA/1006/2024,2024-07-18 02:46:47,DHA Phase 4,DHA Phase 4,24.799889,67.064173,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,2,Thursday
+TEE/1024/2024,2024-07-20 00:58:07,Teen Talwar,Teen Talwar,24.809401,67.023843,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Saturday
+GUL/1005/2024,2024-07-22 02:38:02,Gulshan Iqbal,Gulshan-e-Iqbal,24.93959,67.10933,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,2,Monday
+BAL/1030/2024,2024-07-22 06:24:20,Baldia,Baldia Town,24.914847,66.979021,mugging,MEDIUM,blunt_object,yes,karachi_police_fir,6,Monday
+SOH/1009/2024,2024-07-23 11:27:02,Sohrab Goth,Sohrab Goth,24.955685,67.057836,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,11,Tuesday
+KOR/1002/2024,2024-07-23 18:39:53,Korangi,Korangi,24.834789,67.114186,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Tuesday
+ORA/1038/2024,2024-07-24 19:37:50,Orangi 5,Orangi Town,24.951229,66.995744,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Wednesday
+KOR/1022/2024,2024-07-28 04:31:04,Korangi,Korangi,24.82211,67.12207,mugging,MEDIUM,blunt_object,yes,karachi_police_fir,4,Sunday
+DHA/1001/2024,2024-07-29 02:43:17,DHA Phase 6,DHA Phase 6,24.767961,67.074078,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,2,Monday
+BAL/1012/2024,2024-08-06 16:20:55,Baldia,Baldia Town,24.911767,66.980107,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Tuesday
+NOR/1002/2024,2024-08-07 18:33:51,North Nazimabad,North Nazimabad,24.94702,67.065124,mobile_snatching,HIGH,none,yes,karachi_police_fir,18,Wednesday
+KOR/1021/2024,2024-08-07 21:45:43,Korangi,Korangi,24.826441,67.104012,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,21,Wednesday
+LAN/1026/2024,2024-08-09 17:07:23,Landhi,Landhi,24.863766,67.17903,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Friday
+LAN/1004/2024,2024-08-10 17:14:56,Landhi,Landhi,24.856136,67.168781,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Saturday
+MOM/1023/2024,2024-08-12 18:41:28,Mominabad,Orangi Town,24.945549,66.991015,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Monday
+ORA/1028/2024,2024-08-13 03:03:21,Orangi 5,Orangi Town,24.948977,67.004742,robbery,HIGH,firearm,yes,karachi_police_fir,3,Tuesday
+DHA/1009/2024,2024-08-13 23:01:33,DHA Phase 4,DHA Phase 4,24.791209,67.069839,mobile_snatching,HIGH,knife,yes,karachi_police_fir,23,Tuesday
+LIA/1020/2024,2024-08-14 03:24:28,Liaquatabad,Liaquatabad,24.895852,67.038647,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Wednesday
+LIA/1015/2024,2024-08-15 21:17:19,Liaquatabad,Liaquatabad,24.898278,67.042887,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,21,Thursday
+ORA/1011/2024,2024-08-16 05:16:00,Orangi 5,Orangi Town,24.949583,66.996664,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,5,Friday
+GUL/1009/2024,2024-08-16 07:46:30,Gulshan Iqbal,Gulshan-e-Iqbal,24.941624,67.107916,motorcycle_theft,HIGH,none,yes,karachi_police_fir,7,Friday
+LAN/1007/2024,2024-08-16 18:38:19,Landhi,Landhi,24.867677,67.171146,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,18,Friday
+KAL/1003/2024,2024-08-17 09:00:29,Kalakot,Lyari,24.857437,66.993734,motorcycle_theft,HIGH,none,yes,karachi_police_fir,9,Saturday
+LIA/1019/2024,2024-08-18 00:15:55,Liaquatabad,Liaquatabad,24.902761,67.045183,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,0,Sunday
+SUR/1020/2024,2024-08-20 01:47:07,Surjani,Surjani Town,24.981112,67.043189,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,1,Tuesday
+GUL/1024/2024,2024-08-20 08:09:48,Gulshan Iqbal,Gulshan-e-Iqbal,24.929131,67.104413,mobile_snatching,HIGH,none,yes,karachi_police_fir,8,Tuesday
+SUR/1002/2024,2024-08-20 12:03:57,Surjani,Surjani Town,24.980571,67.049294,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Tuesday
+GUL/1040/2024,2024-08-20 23:11:28,Gulshan Iqbal,Gulshan-e-Iqbal,24.941174,67.111067,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Tuesday
+TEE/1025/2024,2024-08-22 14:06:54,Teen Talwar,Teen Talwar,24.805482,67.032272,motorcycle_theft,HIGH,none,yes,karachi_police_fir,14,Thursday
+KAL/1030/2024,2024-08-22 15:25:36,Kalakot,Lyari,24.853521,66.993486,motorcycle_theft,HIGH,none,yes,karachi_police_fir,15,Thursday
+NEW/1026/2024,2024-08-22 23:23:05,New Karachi,New Karachi,24.97703,67.07988,mobile_snatching,HIGH,none,yes,karachi_police_fir,23,Thursday
+KOR/1008/2024,2024-08-25 11:53:33,Korangi,Korangi,24.826632,67.101513,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,11,Sunday
+PAK/1005/2024,2024-08-26 01:37:19,Pak Colony,Pak Colony,24.907767,67.001923,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Monday
+BAL/1003/2024,2024-08-26 20:51:38,Baldia,Baldia Town,24.903302,66.975575,motorcycle_theft,HIGH,none,yes,karachi_police_fir,20,Monday
+KOR/1003/2024,2024-09-02 13:22:18,Korangi Creek,DHA Phase 8,24.803871,67.10417,motorcycle_theft,HIGH,none,yes,karachi_police_fir,13,Monday
+NOR/1003/2024,2024-09-03 02:49:49,North Nazimabad,North Nazimabad,24.952123,67.0536,assault,MEDIUM,none,yes,karachi_police_fir,2,Tuesday
+GUL/1011/2024,2024-09-03 23:21:17,Gulberg,Gulberg,24.912534,67.081271,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Tuesday
+MAL/1003/2024,2024-09-06 23:00:52,Malir,Malir,24.910406,67.196566,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Friday
+SOH/1038/2024,2024-09-11 10:57:04,Sohrab Goth,Sohrab Goth,24.948913,67.055307,mobile_snatching,HIGH,none,yes,karachi_police_fir,10,Wednesday
+KEM/1007/2024,2024-09-13 10:37:26,Kemari,Kemari,24.844105,66.976912,mobile_snatching,HIGH,none,yes,karachi_police_fir,10,Friday
+SOH/1013/2024,2024-09-14 20:42:45,Sohrab Goth,Sohrab Goth,24.9617,67.052179,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,20,Saturday
+PAK/1031/2024,2024-09-14 23:26:00,Pak Colony,Pak Colony,24.912549,66.996685,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Saturday
+PAK/1016/2024,2024-09-15 02:11:46,Pak Colony,Pak Colony,24.909318,66.990397,mobile_snatching,HIGH,knife,yes,karachi_police_fir,2,Sunday
+ARA/1017/2024,2024-09-15 12:34:25,Arambagh,Saddar,24.852982,67.004995,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,12,Sunday
+PIR/1009/2024,2024-09-16 20:02:12,Pirabad,Orangi Town,24.931739,66.983212,robbery,CRITICAL,knife,yes,karachi_police_fir,20,Monday
+PIR/1012/2024,2024-09-17 19:05:55,Pirabad,Orangi Town,24.923409,66.989493,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,19,Tuesday
+PAK/1004/2024,2024-09-19 22:27:52,Pak Colony,Pak Colony,24.911139,66.994267,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,22,Thursday
+PIR/1042/2024,2024-09-20 17:48:12,Pirabad,Orangi Town,24.931838,66.995492,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Friday
+SUR/1031/2024,2024-09-20 20:12:24,Surjani,Surjani Town,24.984767,67.038899,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,20,Friday
+MAL/1022/2024,2024-09-22 01:20:51,Malir,Malir,24.909902,67.193691,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Sunday
+ARA/1027/2024,2024-09-24 00:33:10,Arambagh,Saddar,24.853683,67.009997,mobile_snatching,HIGH,none,yes,karachi_police_fir,0,Tuesday
+GUL/1029/2024,2024-09-27 13:48:12,Gulberg,Gulberg,24.912225,67.077744,car_theft,MEDIUM,none,yes,karachi_police_fir,13,Friday
+GAR/1001/2024,2024-09-30 02:06:26,Garden,Saddar,24.874756,67.015549,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Monday
+MOM/1013/2024,2024-10-05 01:48:11,Mominabad,Orangi Town,24.929211,66.995263,mobile_snatching,HIGH,knife,yes,karachi_police_fir,1,Saturday
+GAR/1018/2024,2024-10-05 20:03:19,Garden,Saddar,24.869724,67.014346,motorcycle_theft,HIGH,none,yes,karachi_police_fir,20,Saturday
+LIA/1012/2024,2024-10-06 10:28:25,Liaquatabad,Liaquatabad,24.9023,67.035286,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,10,Sunday
+ORA/1002/2024,2024-10-07 06:58:08,Orangi 5,Orangi Town,24.950354,66.996079,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,6,Monday
+KEM/1005/2024,2024-10-08 19:02:28,Kemari,Kemari,24.841695,66.964591,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,19,Tuesday
+ORA/1015/2024,2024-10-09 00:29:09,Orangi 5,Orangi Town,24.942603,66.996,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Wednesday
+NOR/1029/2024,2024-10-10 18:03:11,North Nazimabad,North Nazimabad,24.95037,67.054364,mobile_snatching,HIGH,knife,yes,karachi_police_fir,18,Thursday
+MOM/1045/2024,2024-10-12 18:13:06,Mominabad,Orangi Town,24.92759,66.990024,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Saturday
+TEE/1002/2024,2024-10-13 03:17:29,Teen Talwar,Teen Talwar,24.807839,67.025659,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Sunday
+BAL/1019/2024,2024-10-13 12:48:07,Baldia,Baldia Town,24.907395,66.975979,mobile_snatching,HIGH,none,yes,karachi_police_fir,12,Sunday
+KOR/1019/2024,2024-10-14 14:14:55,Korangi,Korangi,24.832294,67.104688,house_burglary,MEDIUM,none,yes,karachi_police_fir,14,Monday
+GUL/1008/2024,2024-10-14 17:41:01,Gulberg,Gulberg,24.914317,67.077605,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Monday
+KAL/1028/2024,2024-10-18 20:39:45,Kalakot,Lyari,24.858717,66.994756,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Friday
+FER/1018/2024,2024-10-20 22:53:41,Ferozabad,Gulshan-e-Iqbal,24.920529,67.082843,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Sunday
+SUR/1005/2024,2024-10-24 12:26:00,Surjani,Surjani Town,25.002334,67.037964,car_theft,MEDIUM,none,yes,karachi_police_fir,12,Thursday
+BAG/1005/2024,2024-10-24 18:02:54,Baghdadi,Lyari,24.847551,66.986122,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Thursday
+BAH/1001/2024,2024-10-25 16:34:51,Bahria Town,Bahria Town,24.860547,67.27006,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Friday
+NAP/1025/2024,2024-10-28 11:12:53,Napier,Saddar,24.862303,67.004956,motorcycle_theft,HIGH,none,yes,karachi_police_fir,11,Monday
+NEW/1002/2024,2024-10-28 18:49:53,New Karachi,New Karachi,24.973692,67.067837,robbery,HIGH,firearm,yes,karachi_police_fir,18,Monday
+KEM/1031/2024,2024-11-03 02:12:47,Kemari,Kemari,24.845589,66.96654,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Sunday
+BAG/1013/2024,2024-11-03 02:57:15,Baghdadi,Lyari,24.85314,66.998318,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,2,Sunday
+PIR/1013/2024,2024-11-03 23:42:10,Pirabad,Orangi Town,24.923473,66.979544,vehicle_hijacking,CRITICAL,knife,yes,karachi_police_fir,23,Sunday
+NOR/1004/2024,2024-11-04 18:33:06,North Nazimabad,North Nazimabad,24.954581,67.059595,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Monday
+KHA/1029/2024,2024-11-07 21:03:08,Kharadar,Saddar,24.849081,66.999088,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,21,Thursday
+LIA/1001/2024,2024-11-08 01:40:15,Liaquatabad,Liaquatabad,24.901803,67.038759,mugging,MEDIUM,blunt_object,yes,karachi_police_fir,1,Friday
+GUL/1028/2024,2024-11-08 22:13:27,Gulberg,Gulberg,24.920611,67.088683,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,22,Friday
+ORA/1044/2024,2024-11-09 23:28:52,Orangi 5,Orangi Town,24.947016,66.994092,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,23,Saturday
+MOM/1031/2024,2024-11-10 06:16:40,Mominabad,Orangi Town,24.927072,66.996671,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,6,Sunday
+NAP/1014/2024,2024-11-12 15:26:37,Napier,Saddar,24.868707,67.004327,mobile_snatching,HIGH,none,yes,karachi_police_fir,15,Tuesday
+FER/1002/2024,2024-11-12 21:14:03,Ferozabad,Gulshan-e-Iqbal,24.92116,67.09748,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Tuesday
+KEM/1018/2024,2024-11-14 21:00:56,Kemari,Kemari,24.838903,66.965533,mobile_snatching,HIGH,none,yes,karachi_police_fir,21,Thursday
+GIZ/1013/2024,2024-11-16 05:48:37,Gizri,DHA Phase 2,24.799368,67.04837,car_theft,MEDIUM,none,yes,karachi_police_fir,5,Saturday
+LIA/1002/2024,2024-11-21 09:41:08,Liaquatabad,Liaquatabad,24.906617,67.033217,motorcycle_theft,HIGH,none,yes,karachi_police_fir,9,Thursday
+CLI/1010/2024,2024-11-25 17:11:05,Clifton,Clifton,24.813107,67.034564,vehicle_hijacking,HIGH,knife,yes,karachi_police_fir,17,Monday
+NOR/1012/2024,2024-11-25 18:21:17,North Nazimabad,North Nazimabad,24.946446,67.067713,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Monday
+NOR/1024/2024,2024-11-27 04:27:09,North Nazimabad,North Nazimabad,24.95495,67.065268,motorcycle_theft,HIGH,none,yes,karachi_police_fir,4,Wednesday
+CLI/1016/2024,2024-11-27 06:12:55,Clifton,Clifton,24.810002,67.034571,motorcycle_theft,HIGH,none,yes,karachi_police_fir,6,Wednesday
+PIR/1034/2024,2024-11-28 22:35:04,Pirabad,Orangi Town,24.923884,66.989437,vehicle_hijacking,CRITICAL,firearm,yes,karachi_police_fir,22,Thursday
+SOH/1031/2024,2024-11-29 10:18:18,Sohrab Goth,Sohrab Goth,24.948127,67.050736,mobile_snatching,HIGH,knife,yes,karachi_police_fir,10,Friday
+KEM/1020/2024,2024-11-30 10:11:21,Kemari,Kemari,24.838162,66.966962,mobile_snatching,HIGH,knife,yes,karachi_police_fir,10,Saturday
+PIR/1019/2024,2024-12-01 13:31:56,Pirabad,Orangi Town,24.928826,66.988405,motorcycle_theft,HIGH,none,yes,karachi_police_fir,13,Sunday
+DHA/1006/2024,2024-12-06 10:01:16,DHA Phase 6,DHA Phase 6,24.769155,67.065016,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,10,Friday
+KHA/1020/2024,2024-12-07 21:45:40,Kharadar,Saddar,24.850299,66.999534,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,21,Saturday
+KAL/1029/2024,2024-12-09 18:12:59,Kalakot,Lyari,24.854725,66.991702,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Monday
+PIR/1006/2024,2024-12-15 19:00:32,Pirabad,Orangi Town,24.935223,66.983042,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Sunday
+TEE/1011/2024,2024-12-16 03:07:28,Teen Talwar,Teen Talwar,24.808196,67.025365,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Monday
+KEM/1001/2024,2024-12-17 13:05:56,Kemari,Kemari,24.844882,66.968497,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,13,Tuesday
+GAR/1016/2024,2024-12-20 23:19:19,Garden,Saddar,24.875977,67.019554,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Friday
+NOR/1015/2024,2024-12-22 13:45:55,North Nazimabad,North Nazimabad,24.941861,67.061035,motorcycle_theft,HIGH,none,yes,karachi_police_fir,13,Sunday
+KAL/1025/2024,2024-12-22 22:47:35,Kalakot,Lyari,24.85554,66.996421,mobile_snatching,CRITICAL,none,yes,karachi_police_fir,22,Sunday
+LIA/1008/2024,2024-12-23 03:02:14,Liaquatabad,Liaquatabad,24.906428,67.047467,mugging,MEDIUM,blunt_object,yes,karachi_police_fir,3,Monday
+PIR/1010/2024,2024-12-24 02:23:14,Pirabad,Orangi Town,24.926483,66.995764,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Tuesday
+BAL/1017/2024,2024-12-25 15:18:39,Baldia,Baldia Town,24.904622,66.981477,mobile_snatching,HIGH,knife,yes,karachi_police_fir,15,Wednesday
+LIA/1017/2024,2024-12-26 02:07:59,Liaquatabad,Liaquatabad,24.893177,67.037937,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,2,Thursday
+KOR/1020/2024,2024-12-26 19:14:10,Korangi,Korangi,24.831016,67.108945,mugging,MEDIUM,blunt_object,yes,karachi_police_fir,19,Thursday
+ORA/1024/2024,2024-12-29 01:46:55,Orangi 5,Orangi Town,24.939418,67.007358,mobile_snatching,HIGH,knife,yes,karachi_police_fir,1,Sunday
+LIA/1016/2024,2024-12-31 16:30:29,Liaquatabad,Liaquatabad,24.899371,67.042545,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Tuesday
+BAH/1006/2025,2025-01-01 05:39:39,Bahria Town,Bahria Town,24.861515,67.259122,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,5,Wednesday
+ARA/1006/2025,2025-01-03 02:09:21,Arambagh,Saddar,24.85957,67.00499,mugging,MEDIUM,knife,yes,karachi_police_fir,2,Friday
+LAN/1013/2025,2025-01-03 15:32:53,Landhi,Landhi,24.851874,67.166591,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,15,Friday
+NAP/1013/2025,2025-01-03 17:44:56,Napier,Saddar,24.869525,67.006443,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Friday
+SOH/1025/2025,2025-01-05 05:48:18,Sohrab Goth,Sohrab Goth,24.946156,67.052695,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,5,Sunday
+NEW/1032/2025,2025-01-05 22:18:20,New Karachi,New Karachi,24.973708,67.064715,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,22,Sunday
+FER/1016/2025,2025-01-06 17:48:58,Ferozabad,Gulshan-e-Iqbal,24.927371,67.094188,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Monday
+LIA/1009/2025,2025-01-06 22:40:30,Liaquatabad,Liaquatabad,24.901035,67.035665,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Monday
+FER/1014/2025,2025-01-08 20:08:29,Ferozabad,Gulshan-e-Iqbal,24.926047,67.097167,motorcycle_theft,HIGH,none,yes,karachi_police_fir,20,Wednesday
+MOM/1042/2025,2025-01-10 14:20:58,Mominabad,Orangi Town,24.944199,66.996926,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,14,Friday
+LAN/1012/2025,2025-01-11 17:56:08,Landhi,Landhi,24.859846,67.175845,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Saturday
+MOM/1025/2025,2025-01-13 13:59:45,Mominabad,Orangi Town,24.944952,67.001501,mobile_snatching,HIGH,knife,yes,karachi_police_fir,13,Monday
+BAG/1027/2025,2025-01-17 21:50:36,Baghdadi,Lyari,24.862249,66.997772,mobile_snatching,CRITICAL,none,yes,karachi_police_fir,21,Friday
+NEW/1019/2025,2025-01-19 18:36:45,New Karachi,New Karachi,24.960665,67.060492,robbery,HIGH,firearm,yes,karachi_police_fir,18,Sunday
+ARA/1019/2025,2025-01-21 00:55:57,Arambagh,Saddar,24.858984,67.015096,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,0,Tuesday
+BAG/1001/2025,2025-01-23 01:37:29,Baghdadi,Lyari,24.86112,66.993749,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Thursday
+NEW/1022/2025,2025-01-23 03:36:38,New Karachi,New Karachi,24.971711,67.062547,mobile_snatching,HIGH,knife,yes,karachi_police_fir,3,Thursday
+PAK/1001/2025,2025-01-23 14:40:11,Pak Colony,Pak Colony,24.912084,66.995999,motorcycle_theft,HIGH,none,yes,karachi_police_fir,14,Thursday
+BAG/1006/2025,2025-01-25 17:55:11,Baghdadi,Lyari,24.859757,66.998705,mobile_snatching,HIGH,knife,yes,karachi_police_fir,17,Saturday
+NAP/1026/2025,2025-01-26 22:21:49,Napier,Saddar,24.869735,67.007085,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Sunday
+BAH/1005/2025,2025-01-29 11:38:18,Bahria Town,Bahria Town,24.86204,67.251864,motorcycle_theft,HIGH,none,yes,karachi_police_fir,11,Wednesday
+BAG/1012/2025,2025-02-01 01:20:32,Baghdadi,Lyari,24.857115,66.999349,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Saturday
+SOH/1042/2025,2025-02-02 00:40:22,Sohrab Goth,Sohrab Goth,24.959277,67.054633,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Sunday
+SOH/1011/2025,2025-02-03 02:10:15,Sohrab Goth,Sohrab Goth,24.957011,67.047554,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Monday
+TEE/1030/2025,2025-02-03 21:39:28,Teen Talwar,Teen Talwar,24.814276,67.026405,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,21,Monday
+KAL/1002/2025,2025-02-07 19:45:13,Kalakot,Lyari,24.856807,66.996647,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,19,Friday
+NEW/1025/2025,2025-02-09 20:15:18,New Karachi,New Karachi,24.962729,67.063743,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,20,Sunday
+MOM/1010/2025,2025-02-11 02:56:15,Mominabad,Orangi Town,24.934972,66.994367,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Tuesday
+BAL/1005/2025,2025-02-13 15:24:33,Baldia,Baldia Town,24.895175,66.991009,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,15,Thursday
+BAG/1003/2025,2025-02-15 22:11:27,Baghdadi,Lyari,24.850034,66.994316,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,22,Saturday
+DHA/1007/2025,2025-02-16 16:22:26,DHA Phase 4,DHA Phase 4,24.797606,67.068911,vehicle_hijacking,HIGH,knife,yes,karachi_police_fir,16,Sunday
+SOH/1017/2025,2025-02-16 18:45:12,Sohrab Goth,Sohrab Goth,24.952031,67.050776,mobile_snatching,HIGH,knife,yes,karachi_police_fir,18,Sunday
+SOH/1008/2025,2025-02-20 22:26:52,Sohrab Goth,Sohrab Goth,24.956197,67.054541,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,22,Thursday
+KOR/1005/2025,2025-02-21 21:38:16,Korangi,Korangi,24.837914,67.118423,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Friday
+MOM/1012/2025,2025-02-23 10:58:25,Mominabad,Orangi Town,24.935329,66.993546,mugging,MEDIUM,none,yes,karachi_police_fir,10,Sunday
+NEW/1009/2025,2025-02-24 01:40:00,New Karachi,New Karachi,24.968483,67.063035,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Monday
+KHA/1012/2025,2025-02-26 16:07:36,Kharadar,Saddar,24.859263,67.007424,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,16,Wednesday
+NOR/1022/2025,2025-02-26 23:59:13,North Nazimabad,North Nazimabad,24.941579,67.064574,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Wednesday
+PAK/1009/2025,2025-02-27 12:31:21,Pak Colony,Pak Colony,24.902721,66.994333,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Thursday
+SOH/1012/2025,2025-02-27 18:10:12,Sohrab Goth,Sohrab Goth,24.960598,67.058109,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,18,Thursday
+NOR/1028/2025,2025-02-28 16:31:45,North Nazimabad,North Nazimabad,24.953937,67.057018,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,16,Friday
+BAG/1010/2025,2025-03-03 02:34:11,Baghdadi,Lyari,24.856632,67.000743,mobile_snatching,HIGH,knife,yes,karachi_police_fir,2,Monday
+PAK/1018/2025,2025-03-04 01:00:13,Pak Colony,Pak Colony,24.904015,66.988768,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Tuesday
+CLI/1019/2025,2025-03-05 08:41:13,Clifton,Clifton,24.807831,67.029606,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,8,Wednesday
+KEM/1019/2025,2025-03-06 12:42:56,Kemari,Kemari,24.837175,66.965249,carjacking,HIGH,knife,yes,karachi_police_fir,12,Thursday
+ARA/1023/2025,2025-03-09 20:07:02,Arambagh,Saddar,24.85766,67.008555,mobile_snatching,HIGH,knife,yes,karachi_police_fir,20,Sunday
+KOR/1018/2025,2025-03-15 11:21:07,Korangi,Korangi,24.833256,67.112778,mobile_snatching,HIGH,none,yes,karachi_police_fir,11,Saturday
+TEE/1022/2025,2025-03-16 04:09:42,Teen Talwar,Teen Talwar,24.807819,67.029498,motorcycle_theft,HIGH,none,yes,karachi_police_fir,4,Sunday
+MOM/1040/2025,2025-03-19 03:08:06,Mominabad,Orangi Town,24.928572,66.998854,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Wednesday
+GAR/1007/2025,2025-03-23 23:13:27,Garden,Saddar,24.873714,67.024032,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Sunday
+NEW/1016/2025,2025-03-24 17:43:47,New Karachi,New Karachi,24.973174,67.070506,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,17,Monday
+SUR/1034/2025,2025-03-28 01:39:46,Surjani,Surjani Town,24.992763,67.039121,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Friday
+MOM/1005/2025,2025-03-29 00:31:37,Mominabad,Orangi Town,24.937511,66.987359,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Saturday
+SOH/1032/2025,2025-04-01 14:48:05,Sohrab Goth,Sohrab Goth,24.960165,67.06232,robbery,HIGH,knife,yes,karachi_police_fir,14,Tuesday
+BAL/1014/2025,2025-04-01 17:27:30,Baldia,Baldia Town,24.906649,66.975179,robbery,HIGH,blunt_object,yes,karachi_police_fir,17,Tuesday
+GUL/1020/2025,2025-04-02 03:38:39,Gulberg,Gulberg,24.920022,67.090657,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,3,Wednesday
+GUL/1014/2025,2025-04-06 19:13:09,Gulshan Iqbal,Gulshan-e-Iqbal,24.929564,67.106465,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,19,Sunday
+TEE/1034/2025,2025-04-07 07:44:27,Teen Talwar,Teen Talwar,24.805121,67.023024,motorcycle_theft,HIGH,none,yes,karachi_police_fir,7,Monday
+NAP/1016/2025,2025-04-09 13:16:04,Napier,Saddar,24.867689,67.011352,motorcycle_theft,HIGH,none,yes,karachi_police_fir,13,Wednesday
+MOM/1030/2025,2025-04-10 21:35:37,Mominabad,Orangi Town,24.941366,66.994697,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,21,Thursday
+LIA/1005/2025,2025-04-16 12:31:20,Liaquatabad,Liaquatabad,24.903221,67.040513,mobile_snatching,HIGH,knife,yes,karachi_police_fir,12,Wednesday
+KAL/1016/2025,2025-04-17 21:57:59,Kalakot,Lyari,24.851132,67.000705,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,21,Thursday
+MOM/1014/2025,2025-04-19 14:35:13,Mominabad,Orangi Town,24.92793,66.99573,mobile_snatching,HIGH,none,yes,karachi_police_fir,14,Saturday
+MOM/1008/2025,2025-04-19 20:33:34,Mominabad,Orangi Town,24.945849,66.996911,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Saturday
+NAP/1005/2025,2025-04-23 08:16:17,Napier,Saddar,24.862645,67.01121,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,8,Wednesday
+LIA/1023/2025,2025-04-23 17:21:11,Liaquatabad,Liaquatabad,24.893532,67.041456,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Wednesday
+ORA/1025/2025,2025-04-23 18:41:07,Orangi 5,Orangi Town,24.946918,67.004497,car_theft,MEDIUM,blunt_object,yes,karachi_police_fir,18,Wednesday
+BAG/1030/2025,2025-04-23 20:34:49,Baghdadi,Lyari,24.860526,66.988104,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,20,Wednesday
+DHA/1003/2025,2025-04-24 17:04:40,DHA Phase 4,DHA Phase 4,24.792259,67.075057,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Thursday
+SOH/1041/2025,2025-04-26 19:54:02,Sohrab Goth,Sohrab Goth,24.955045,67.047251,mobile_snatching,HIGH,knife,yes,karachi_police_fir,19,Saturday
+ORA/1007/2025,2025-04-28 12:33:23,Orangi 5,Orangi Town,24.944399,66.99535,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,12,Monday
+PIR/1022/2025,2025-04-28 23:23:40,Pirabad,Orangi Town,24.931244,66.99409,mobile_snatching,CRITICAL,knife,yes,karachi_police_fir,23,Monday
+NEW/1012/2025,2025-04-29 17:29:04,New Karachi,New Karachi,24.968481,67.071567,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Tuesday
+ARA/1014/2025,2025-04-29 17:56:32,Arambagh,Saddar,24.863551,67.007124,robbery,HIGH,knife,yes,karachi_police_fir,17,Tuesday
+NOR/1018/2025,2025-04-30 17:36:05,North Nazimabad,North Nazimabad,24.952185,67.065117,house_burglary,MEDIUM,knife,yes,karachi_police_fir,17,Wednesday
+PIR/1030/2025,2025-04-30 18:26:16,Pirabad,Orangi Town,24.932574,66.982661,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Wednesday
+TEE/1035/2025,2025-04-30 20:33:32,Teen Talwar,Teen Talwar,24.805924,67.031944,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,20,Wednesday
+NEW/1029/2025,2025-05-01 18:00:20,New Karachi,New Karachi,24.976885,67.076583,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,18,Thursday
+KOR/1024/2025,2025-05-04 19:43:34,Korangi,Korangi,24.824342,67.10449,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,19,Sunday
+CLI/1005/2025,2025-05-06 02:59:55,Clifton,Clifton,24.806886,67.028983,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Tuesday
+PIR/1039/2025,2025-05-09 20:20:38,Pirabad,Orangi Town,24.92406,66.987564,motorcycle_theft,CRITICAL,knife,yes,karachi_police_fir,20,Friday
+NAP/1030/2025,2025-05-10 16:03:56,Napier,Saddar,24.866165,67.012349,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Saturday
+KHA/1002/2025,2025-05-14 15:59:34,Kharadar,Saddar,24.85358,67.003792,motorcycle_theft,HIGH,none,yes,karachi_police_fir,15,Wednesday
+LIA/1022/2025,2025-05-15 21:10:43,Liaquatabad,Liaquatabad,24.904605,67.045127,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,21,Thursday
+KAL/1013/2025,2025-05-15 22:54:39,Kalakot,Lyari,24.856083,66.991289,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,22,Thursday
+ARA/1020/2025,2025-05-16 00:32:13,Arambagh,Saddar,24.859841,67.00784,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Friday
+PAK/1003/2025,2025-05-19 02:30:23,Pak Colony,Pak Colony,24.910216,66.995447,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,2,Monday
+BAG/1015/2025,2025-05-19 03:36:36,Baghdadi,Lyari,24.858751,66.990478,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,3,Monday
+NOR/1027/2025,2025-05-19 18:50:52,North Nazimabad,North Nazimabad,24.958973,67.055283,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Monday
+KEM/1004/2025,2025-05-20 17:59:06,Kemari,Kemari,24.8414,66.965272,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Tuesday
+GUL/1027/2025,2025-05-20 20:35:57,Gulshan Iqbal,Gulshan-e-Iqbal,24.93115,67.104462,motorcycle_theft,HIGH,none,yes,karachi_police_fir,20,Tuesday
+BAL/1009/2025,2025-05-23 12:54:32,Baldia,Baldia Town,24.897974,66.978251,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Friday
+KAL/1034/2025,2025-05-24 20:21:49,Kalakot,Lyari,24.855371,66.990937,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Saturday
+KOR/1015/2025,2025-05-25 20:39:58,Korangi,Korangi,24.820328,67.102,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,20,Sunday
+NEW/1023/2025,2025-05-27 02:24:38,New Karachi,New Karachi,24.979826,67.079245,mobile_snatching,HIGH,knife,yes,karachi_police_fir,2,Tuesday
+BAL/1025/2025,2025-05-31 03:50:25,Baldia,Baldia Town,24.898152,66.982318,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,3,Saturday
+LAN/1019/2025,2025-06-01 16:55:38,Landhi,Landhi,24.857461,67.172705,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Sunday
+BAG/1026/2025,2025-06-02 20:59:49,Baghdadi,Lyari,24.862158,66.986922,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Monday
+PAK/1006/2025,2025-06-03 12:40:52,Pak Colony,Pak Colony,24.903236,66.990278,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Tuesday
+KEM/1010/2025,2025-06-04 14:49:11,Kemari,Kemari,24.836112,66.97008,motorcycle_theft,HIGH,none,yes,karachi_police_fir,14,Wednesday
+SOH/1030/2025,2025-06-06 13:29:50,Sohrab Goth,Sohrab Goth,24.960997,67.056234,robbery,HIGH,blunt_object,yes,karachi_police_fir,13,Friday
+MOM/1017/2025,2025-06-08 01:46:03,Mominabad,Orangi Town,24.931456,66.987612,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Sunday
+MAL/1015/2025,2025-06-08 06:10:49,Malir,Malir,24.896893,67.199884,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,6,Sunday
+GUL/1022/2025,2025-06-09 16:45:46,Gulshan Iqbal,Gulshan-e-Iqbal,24.930269,67.108971,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Monday
+GAR/1006/2025,2025-06-10 22:27:47,Garden,Saddar,24.864533,67.0256,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,22,Tuesday
+KOR/1028/2025,2025-06-11 04:58:22,Korangi,Korangi,24.836639,67.107618,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,4,Wednesday
+NEW/1015/2025,2025-06-17 01:51:13,New Karachi,New Karachi,24.968774,67.066573,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Tuesday
+PIR/1043/2025,2025-06-18 02:07:45,Pirabad,Orangi Town,24.930917,66.99654,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,2,Wednesday
+GUL/1006/2025,2025-06-20 10:31:19,Gulshan Iqbal,Gulshan-e-Iqbal,24.939765,67.114224,motorcycle_theft,HIGH,none,yes,karachi_police_fir,10,Friday
+NAP/1007/2025,2025-06-20 13:13:13,Napier,Saddar,24.866683,67.011491,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,13,Friday
+GUL/1014/2025,2025-06-24 13:38:30,Gulberg,Gulberg,24.92026,67.079353,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,13,Tuesday
+KEM/1025/2025,2025-06-26 00:09:48,Kemari,Kemari,24.840357,66.969549,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,0,Thursday
+SUR/1030/2025,2025-06-28 20:18:53,Surjani,Surjani Town,24.992112,67.041955,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,20,Saturday
+KAL/1040/2025,2025-06-30 23:36:26,Kalakot,Lyari,24.858986,66.999828,vehicle_hijacking,CRITICAL,knife,yes,karachi_police_fir,23,Monday
+SUR/1022/2025,2025-07-01 04:52:19,Surjani,Surjani Town,24.999519,67.045801,motorcycle_theft,HIGH,none,yes,karachi_police_fir,4,Tuesday
+LIA/1014/2025,2025-07-08 14:48:11,Liaquatabad,Liaquatabad,24.89833,67.04084,kidnapping,CRITICAL,knife,yes,karachi_police_fir,14,Tuesday
+SOH/1007/2025,2025-07-08 21:24:13,Sohrab Goth,Sohrab Goth,24.954944,67.04862,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,21,Tuesday
+KOR/1009/2025,2025-07-08 21:50:29,Korangi,Korangi,24.839334,67.110655,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,21,Tuesday
+ARA/1009/2025,2025-07-10 14:58:11,Arambagh,Saddar,24.864495,67.013324,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,14,Thursday
+NAP/1029/2025,2025-07-10 23:26:33,Napier,Saddar,24.861981,67.010212,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Thursday
+PIR/1029/2025,2025-07-16 16:15:55,Pirabad,Orangi Town,24.931479,66.986045,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,16,Wednesday
+ORA/1037/2025,2025-07-16 23:49:24,Orangi 5,Orangi Town,24.945886,67.005056,mugging,MEDIUM,knife,yes,karachi_police_fir,23,Wednesday
+LAN/1014/2025,2025-07-18 17:44:52,Landhi,Landhi,24.864261,67.179648,mugging,MEDIUM,blunt_object,yes,karachi_police_fir,17,Friday
+NEW/1014/2025,2025-07-20 17:50:51,New Karachi,New Karachi,24.974157,67.077581,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Sunday
+BAG/1007/2025,2025-07-20 18:27:20,Baghdadi,Lyari,24.85617,66.989562,robbery,HIGH,blunt_object,yes,karachi_police_fir,18,Sunday
+NOR/1008/2025,2025-07-21 01:58:31,North Nazimabad,North Nazimabad,24.948747,67.056609,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Monday
+TEE/1009/2025,2025-07-21 14:03:25,Teen Talwar,Teen Talwar,24.806209,67.026544,motorcycle_theft,HIGH,none,yes,karachi_police_fir,14,Monday
+SOH/1019/2025,2025-07-21 20:23:53,Sohrab Goth,Sohrab Goth,24.959698,67.060727,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Monday
+MOM/1029/2025,2025-07-22 20:24:09,Mominabad,Orangi Town,24.945921,66.993641,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Tuesday
+TEE/1016/2025,2025-07-23 16:16:37,Teen Talwar,Teen Talwar,24.806954,67.03218,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,16,Wednesday
+ORA/1046/2025,2025-07-25 02:00:47,Orangi 5,Orangi Town,24.947223,67.007174,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Friday
+GUL/1041/2025,2025-07-26 02:06:00,Gulshan Iqbal,Gulshan-e-Iqbal,24.928322,67.109867,robbery,HIGH,firearm,yes,karachi_police_fir,2,Saturday
+PAK/1032/2025,2025-07-28 12:35:44,Pak Colony,Pak Colony,24.912588,66.996234,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,12,Monday
+NOR/1021/2025,2025-07-30 06:14:39,North Nazimabad,North Nazimabad,24.948261,67.057386,motorcycle_theft,HIGH,none,yes,karachi_police_fir,6,Wednesday
+LAN/1009/2025,2025-07-30 07:38:15,Landhi,Landhi,24.853856,67.16172,motorcycle_theft,HIGH,none,yes,karachi_police_fir,7,Wednesday
+LIA/1004/2025,2025-07-31 01:18:56,Liaquatabad,Liaquatabad,24.90344,67.042121,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Thursday
+SUR/1008/2025,2025-08-06 11:14:35,Surjani,Surjani Town,24.999246,67.036644,mobile_snatching,HIGH,knife,yes,karachi_police_fir,11,Wednesday
+GUL/1002/2025,2025-08-07 18:56:22,Gulshan Iqbal,Gulshan-e-Iqbal,24.938596,67.108602,mobile_snatching,HIGH,none,yes,karachi_police_fir,18,Thursday
+GAR/1004/2025,2025-08-08 05:00:42,Garden,Saddar,24.864957,67.01739,motorcycle_theft,HIGH,none,yes,karachi_police_fir,5,Friday
+CLI/1007/2025,2025-08-12 11:48:04,Clifton,Clifton,24.819039,67.022418,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,11,Tuesday
+NOR/1019/2025,2025-08-12 23:25:50,North Nazimabad,North Nazimabad,24.943585,67.054622,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Tuesday
+ORA/1017/2025,2025-08-13 17:46:38,Orangi 5,Orangi Town,24.947147,67.004092,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Wednesday
+GUL/1006/2025,2025-08-16 23:40:01,Gulberg,Gulberg,24.913119,67.080186,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Saturday
+KOR/1009/2025,2025-08-17 20:24:53,Korangi Creek,DHA Phase 8,24.805647,67.103022,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,20,Sunday
+NOR/1025/2025,2025-08-17 23:37:13,North Nazimabad,North Nazimabad,24.943782,67.059022,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Sunday
+GUL/1030/2025,2025-08-18 21:01:17,Gulshan Iqbal,Gulshan-e-Iqbal,24.936579,67.096341,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,21,Monday
+ORA/1021/2025,2025-08-20 18:24:55,Orangi 5,Orangi Town,24.947678,67.00531,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,18,Wednesday
+KAL/1032/2025,2025-08-25 01:39:20,Kalakot,Lyari,24.858913,66.990981,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Monday
+NEW/1020/2025,2025-08-26 13:37:32,New Karachi,New Karachi,24.979487,67.073967,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,13,Tuesday
+KHA/1013/2025,2025-08-28 00:37:26,Kharadar,Saddar,24.850358,67.004215,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,0,Thursday
+SUR/1035/2025,2025-08-30 10:09:58,Surjani,Surjani Town,24.982863,67.052303,motorcycle_theft,HIGH,none,yes,karachi_police_fir,10,Saturday
+BAL/1006/2025,2025-08-31 19:45:51,Baldia,Baldia Town,24.896104,66.988021,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,19,Sunday
+ORA/1022/2025,2025-08-31 22:45:34,Orangi 5,Orangi Town,24.951371,67.006358,vehicle_hijacking,CRITICAL,firearm,yes,karachi_police_fir,22,Sunday
+ORA/1018/2025,2025-09-01 16:35:27,Orangi 5,Orangi Town,24.944328,66.995897,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Monday
+GUL/1037/2025,2025-09-01 21:39:52,Gulshan Iqbal,Gulshan-e-Iqbal,24.923267,67.102728,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Monday
+DHA/1001/2025,2025-09-02 15:20:09,DHA Phase 4,DHA Phase 4,24.790008,67.063228,mobile_snatching,HIGH,knife,yes,karachi_police_fir,15,Tuesday
+KAL/1024/2025,2025-09-05 03:46:53,Kalakot,Lyari,24.858775,67.001207,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Friday
+NOR/1017/2025,2025-09-05 23:02:27,North Nazimabad,North Nazimabad,24.944845,67.061882,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Friday
+NOR/1014/2025,2025-09-07 20:42:38,North Nazimabad,North Nazimabad,24.945874,67.064334,mobile_snatching,HIGH,knife,yes,karachi_police_fir,20,Sunday
+PAK/1029/2025,2025-09-08 20:00:28,Pak Colony,Pak Colony,24.906861,66.997611,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,20,Monday
+TEE/1021/2025,2025-09-11 00:29:26,Teen Talwar,Teen Talwar,24.809224,67.023354,mobile_snatching,HIGH,knife,yes,karachi_police_fir,0,Thursday
+PIR/1020/2025,2025-09-11 19:04:22,Pirabad,Orangi Town,24.927002,66.993149,mobile_snatching,HIGH,none,yes,karachi_police_fir,19,Thursday
+LAN/1010/2025,2025-09-11 19:48:27,Landhi,Landhi,24.856235,67.173273,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Thursday
+KEM/1012/2025,2025-09-11 22:47:23,Kemari,Kemari,24.839627,66.968158,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Thursday
+PIR/1027/2025,2025-09-12 11:23:51,Pirabad,Orangi Town,24.924575,66.995835,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,11,Friday
+BAL/1002/2025,2025-09-15 17:30:57,Baldia,Baldia Town,24.895004,66.994569,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Monday
+DHA/1004/2025,2025-09-15 21:17:11,DHA Phase 6,DHA Phase 6,24.770783,67.070098,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,21,Monday
+KOR/1006/2025,2025-09-16 02:39:13,Korangi,Korangi,24.832626,67.121981,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,2,Tuesday
+SOH/1010/2025,2025-09-21 01:47:09,Sohrab Goth,Sohrab Goth,24.955837,67.053515,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Sunday
+LAN/1021/2025,2025-09-21 15:47:12,Landhi,Landhi,24.865159,67.165203,car_theft,MEDIUM,none,yes,karachi_police_fir,15,Sunday
+LIA/1003/2025,2025-09-23 20:50:55,Liaquatabad,Liaquatabad,24.899783,67.046321,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,20,Tuesday
+SUR/1023/2025,2025-09-26 18:38:23,Surjani,Surjani Town,25.001804,67.052135,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Friday
+GUL/1033/2025,2025-09-27 03:01:13,Gulshan Iqbal,Gulshan-e-Iqbal,24.922835,67.097343,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Saturday
+PAK/1015/2025,2025-09-29 15:24:49,Pak Colony,Pak Colony,24.908297,66.991208,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,15,Monday
+KOR/1029/2025,2025-09-29 15:49:36,Korangi,Korangi,24.836073,67.108705,motorcycle_theft,HIGH,none,yes,karachi_police_fir,15,Monday
+PAK/1023/2025,2025-10-01 01:49:24,Pak Colony,Pak Colony,24.915665,67.001023,assault,MEDIUM,blunt_object,yes,karachi_police_fir,1,Wednesday
+MOM/1027/2025,2025-10-01 19:22:45,Mominabad,Orangi Town,24.945904,66.99893,mobile_snatching,HIGH,none,yes,karachi_police_fir,19,Wednesday
+KOR/1010/2025,2025-10-02 01:03:30,Korangi Creek,DHA Phase 8,24.806397,67.104927,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Thursday
+PAK/1007/2025,2025-10-04 02:15:30,Pak Colony,Pak Colony,24.907722,66.99285,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Saturday
+GAR/1005/2025,2025-10-07 01:27:01,Garden,Saddar,24.864247,67.018836,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Tuesday
+TEE/1005/2025,2025-10-07 13:36:33,Teen Talwar,Teen Talwar,24.814812,67.026732,car_theft,MEDIUM,blunt_object,yes,karachi_police_fir,13,Tuesday
+PIR/1048/2025,2025-10-08 16:06:24,Pirabad,Orangi Town,24.934303,66.985894,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,16,Wednesday
+NOR/1016/2025,2025-10-08 17:27:30,North Nazimabad,North Nazimabad,24.956528,67.065944,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,17,Wednesday
+KEM/1023/2025,2025-10-10 00:08:36,Kemari,Kemari,24.84231,66.965381,house_burglary,MEDIUM,knife,yes,karachi_police_fir,0,Friday
+LAN/1005/2025,2025-10-11 16:10:30,Landhi,Landhi,24.852191,67.17297,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Saturday
+PIR/1041/2025,2025-10-13 03:44:19,Pirabad,Orangi Town,24.935351,66.994641,kidnapping,CRITICAL,firearm,yes,karachi_police_fir,3,Monday
+MOM/1007/2025,2025-10-13 21:23:32,Mominabad,Orangi Town,24.933795,66.984647,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,21,Monday
+ORA/1010/2025,2025-10-16 15:46:01,Orangi 5,Orangi Town,24.947697,67.003757,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,15,Thursday
+ORA/1005/2025,2025-10-16 18:39:17,Orangi 5,Orangi Town,24.947547,66.992652,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Thursday
+SOH/1044/2025,2025-10-17 08:12:19,Sohrab Goth,Sohrab Goth,24.950279,67.049774,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,8,Friday
+PIR/1004/2025,2025-10-17 22:30:11,Pirabad,Orangi Town,24.934727,66.98377,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,22,Friday
+BAL/1010/2025,2025-10-20 12:09:49,Baldia,Baldia Town,24.90796,66.991638,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Monday
+NEW/1008/2025,2025-10-20 13:14:08,New Karachi,New Karachi,24.976227,67.06391,mobile_snatching,HIGH,none,yes,karachi_police_fir,13,Monday
+GIZ/1007/2025,2025-10-22 05:07:49,Gizri,DHA Phase 2,24.80298,67.054041,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,5,Wednesday
+NEW/1011/2025,2025-10-23 01:47:12,New Karachi,New Karachi,24.966594,67.070974,robbery,HIGH,knife,yes,karachi_police_fir,1,Thursday
+BAG/1011/2025,2025-10-24 16:52:15,Baghdadi,Lyari,24.855802,66.984736,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Friday
+KOR/1027/2025,2025-10-24 17:01:35,Korangi,Korangi,24.838993,67.116974,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Friday
+NAP/1018/2025,2025-10-25 00:20:08,Napier,Saddar,24.862417,67.005648,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Saturday
+BAH/1002/2025,2025-10-25 22:52:21,Bahria Town,Bahria Town,24.859782,67.26378,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,22,Saturday
+LAN/1027/2025,2025-10-26 03:41:38,Landhi,Landhi,24.866207,67.16768,vehicle_hijacking,HIGH,knife,yes,karachi_police_fir,3,Sunday
+KAL/1033/2025,2025-10-26 20:11:49,Kalakot,Lyari,24.847183,66.9941,robbery,CRITICAL,firearm,yes,karachi_police_fir,20,Sunday
+GUL/1050/2025,2025-10-27 02:14:30,Gulshan Iqbal,Gulshan-e-Iqbal,24.928307,67.108058,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,2,Monday
+KAL/1017/2025,2025-10-27 11:48:46,Kalakot,Lyari,24.858019,66.993309,motorcycle_theft,HIGH,none,yes,karachi_police_fir,11,Monday
+NOR/1034/2025,2025-10-27 16:04:45,North Nazimabad,North Nazimabad,24.954895,67.055088,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Monday
+SOH/1014/2025,2025-10-28 20:56:05,Sohrab Goth,Sohrab Goth,24.961092,67.049934,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Tuesday
+KEM/1029/2025,2025-10-30 09:23:00,Kemari,Kemari,24.840035,66.96572,vehicle_hijacking,HIGH,knife,yes,karachi_police_fir,9,Thursday
+KAL/1038/2025,2025-10-30 15:37:52,Kalakot,Lyari,24.855402,66.994221,motorcycle_theft,HIGH,none,yes,karachi_police_fir,15,Thursday
+ORA/1030/2025,2025-10-31 00:59:13,Orangi 5,Orangi Town,24.943853,67.00402,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,0,Friday
+BAL/1001/2025,2025-11-10 00:37:27,Baldia,Baldia Town,24.914168,66.978023,mobile_snatching,HIGH,knife,yes,karachi_police_fir,0,Monday
+CLI/1015/2025,2025-11-10 19:56:34,Clifton,Clifton,24.808263,67.037292,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,19,Monday
+GUL/1003/2025,2025-11-13 01:07:38,Gulberg,Gulberg,24.908568,67.088051,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Thursday
+NOR/1026/2025,2025-11-14 21:49:50,North Nazimabad,North Nazimabad,24.949711,67.058058,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,21,Friday
+CLI/1021/2025,2025-11-15 00:20:32,Clifton,Clifton,24.808582,67.028008,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Saturday
+ARA/1016/2025,2025-11-15 12:53:54,Arambagh,Saddar,24.853778,67.014246,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Saturday
+NAP/1012/2025,2025-11-15 18:36:27,Napier,Saddar,24.866835,67.005235,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Saturday
+ARA/1022/2025,2025-11-15 22:01:56,Arambagh,Saddar,24.855174,67.006667,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,22,Saturday
+GUL/1045/2025,2025-11-17 02:16:30,Gulshan Iqbal,Gulshan-e-Iqbal,24.927941,67.098982,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,2,Monday
+ORA/1039/2025,2025-11-20 21:27:48,Orangi 5,Orangi Town,24.942482,66.996663,mobile_snatching,CRITICAL,knife,yes,karachi_police_fir,21,Thursday
+DHA/1005/2025,2025-11-23 23:33:52,DHA Phase 6,DHA Phase 6,24.782093,67.078125,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Sunday
+GUL/1029/2025,2025-11-24 02:34:29,Gulshan Iqbal,Gulshan-e-Iqbal,24.922784,67.105887,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,2,Monday
+KOR/1010/2025,2025-11-24 23:50:12,Korangi,Korangi,24.835141,67.122448,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Monday
+PAK/1021/2025,2025-11-26 12:41:26,Pak Colony,Pak Colony,24.911168,66.988932,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Wednesday
+MAL/1004/2025,2025-11-27 18:25:36,Malir,Malir,24.893899,67.189709,mobile_snatching,HIGH,none,yes,karachi_police_fir,18,Thursday
+MAL/1019/2025,2025-11-28 00:42:40,Malir,Malir,24.905997,67.189844,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Friday
+MOM/1002/2025,2025-11-28 00:53:08,Mominabad,Orangi Town,24.940344,67.002351,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Friday
+SOH/1039/2025,2025-11-28 17:03:38,Sohrab Goth,Sohrab Goth,24.961493,67.052871,mobile_snatching,HIGH,knife,yes,karachi_police_fir,17,Friday
+ARA/1012/2025,2025-12-01 00:21:20,Arambagh,Saddar,24.859346,67.006447,mobile_snatching,HIGH,none,yes,karachi_police_fir,0,Monday
+SUR/1024/2025,2025-12-01 07:19:32,Surjani,Surjani Town,24.991322,67.036176,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,7,Monday
+NAP/1010/2025,2025-12-01 19:25:47,Napier,Saddar,24.868115,67.007929,mobile_snatching,HIGH,none,yes,karachi_police_fir,19,Monday
+TEE/1029/2025,2025-12-02 02:01:10,Teen Talwar,Teen Talwar,24.813954,67.024613,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Tuesday
+MAL/1008/2025,2025-12-03 01:26:59,Malir,Malir,24.912241,67.197986,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Wednesday
+MAL/1025/2025,2025-12-03 08:44:19,Malir,Malir,24.905038,67.19044,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,8,Wednesday
+NEW/1033/2025,2025-12-04 06:16:57,New Karachi,New Karachi,24.966992,67.064678,robbery,HIGH,blunt_object,yes,karachi_police_fir,6,Thursday
+KHA/1014/2025,2025-12-05 21:35:22,Kharadar,Saddar,24.849365,67.00801,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Friday
+KHA/1030/2025,2025-12-06 10:25:34,Kharadar,Saddar,24.857051,67.000155,motorcycle_theft,HIGH,none,yes,karachi_police_fir,10,Saturday
+KOR/1031/2025,2025-12-07 16:13:21,Korangi,Korangi,24.82707,67.117997,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Sunday
+KAL/1001/2025,2025-12-10 13:34:23,Kalakot,Lyari,24.8482,67.001032,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,13,Wednesday
+BAG/1023/2025,2025-12-12 16:50:42,Baghdadi,Lyari,24.86285,67.001743,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Friday
+NOR/1009/2025,2025-12-16 03:14:28,North Nazimabad,North Nazimabad,24.955639,67.060518,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Tuesday
+SOH/1018/2025,2025-12-16 21:36:21,Sohrab Goth,Sohrab Goth,24.953091,67.053078,vehicle_hijacking,CRITICAL,firearm,yes,karachi_police_fir,21,Tuesday
+LAN/1018/2025,2025-12-16 21:45:43,Landhi,Landhi,24.852361,67.177747,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,21,Tuesday
+GUL/1036/2025,2025-12-18 15:39:33,Gulshan Iqbal,Gulshan-e-Iqbal,24.941067,67.108202,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,15,Thursday
+PIR/1044/2025,2025-12-20 20:43:59,Pirabad,Orangi Town,24.927231,66.979438,motorcycle_theft,CRITICAL,knife,yes,karachi_police_fir,20,Saturday
+NOR/1006/2025,2025-12-23 03:43:32,North Nazimabad,North Nazimabad,24.945961,67.05163,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Tuesday
+ORA/1029/2025,2025-12-23 07:35:29,Orangi 5,Orangi Town,24.94571,67.005144,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,7,Tuesday
+NAP/1017/2025,2025-12-23 15:13:31,Napier,Saddar,24.860105,67.007665,mobile_snatching,HIGH,none,yes,karachi_police_fir,15,Tuesday
+ORA/1019/2025,2025-12-26 23:03:31,Orangi 5,Orangi Town,24.939781,66.994606,vehicle_hijacking,CRITICAL,knife,yes,karachi_police_fir,23,Friday
+LAN/1029/2025,2025-12-27 21:57:56,Landhi,Landhi,24.860021,67.177613,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Saturday
+BAH/1004/2025,2025-12-29 17:14:05,Bahria Town,Bahria Town,24.852944,67.265347,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Monday
+PIR/1031/2026,2026-01-02 13:05:09,Pirabad,Orangi Town,24.930419,66.982955,motorcycle_theft,HIGH,none,yes,karachi_police_fir,13,Friday
+CLI/1009/2026,2026-01-02 21:53:28,Clifton,Clifton,24.816004,67.026513,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Friday
+MAL/1020/2026,2026-01-04 02:52:41,Malir,Malir,24.898986,67.190368,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,2,Sunday
+KOR/1005/2026,2026-01-06 01:33:21,Korangi Creek,DHA Phase 8,24.80691,67.10817,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Tuesday
+BAG/1008/2026,2026-01-06 18:28:32,Baghdadi,Lyari,24.855207,66.989424,motorcycle_theft,HIGH,none,yes,karachi_police_fir,18,Tuesday
+SUR/1029/2026,2026-01-06 18:43:31,Surjani,Surjani Town,24.986155,67.030087,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Tuesday
+GIZ/1003/2026,2026-01-10 05:25:46,Gizri,DHA Phase 2,24.808681,67.043313,mobile_snatching,HIGH,knife,yes,karachi_police_fir,5,Saturday
+ARA/1002/2026,2026-01-14 20:25:42,Arambagh,Saddar,24.860241,67.005217,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,20,Wednesday
+TEE/1015/2026,2026-01-15 21:06:37,Teen Talwar,Teen Talwar,24.806413,67.031544,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,21,Thursday
+ORA/1043/2026,2026-01-16 00:57:26,Orangi 5,Orangi Town,24.945001,67.002703,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,0,Friday
+ORA/1032/2026,2026-01-16 22:53:22,Orangi 5,Orangi Town,24.946457,66.993354,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,22,Friday
+PIR/1037/2026,2026-01-18 19:53:44,Pirabad,Orangi Town,24.922589,66.98864,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Sunday
+SUR/1032/2026,2026-01-20 00:37:42,Surjani,Surjani Town,24.9988,67.051539,robbery,HIGH,firearm,yes,karachi_police_fir,0,Tuesday
+PIR/1024/2026,2026-01-21 09:13:14,Pirabad,Orangi Town,24.937127,66.979684,motorcycle_theft,HIGH,none,yes,karachi_police_fir,9,Wednesday
+KAL/1010/2026,2026-01-22 01:06:45,Kalakot,Lyari,24.853461,66.995775,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Thursday
+TEE/1027/2026,2026-01-22 22:32:27,Teen Talwar,Teen Talwar,24.810371,67.032178,vehicle_hijacking,CRITICAL,knife,yes,karachi_police_fir,22,Thursday
+MOM/1026/2026,2026-01-22 23:54:20,Mominabad,Orangi Town,24.928853,67.003022,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,23,Thursday
+PIR/1003/2026,2026-01-24 10:22:41,Pirabad,Orangi Town,24.933459,66.995088,mobile_snatching,HIGH,knife,yes,karachi_police_fir,10,Saturday
+MAL/1023/2026,2026-01-24 16:23:37,Malir,Malir,24.907209,67.179724,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,16,Saturday
+SUR/1012/2026,2026-01-26 21:11:57,Surjani,Surjani Town,24.995504,67.030819,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,21,Monday
+TEE/1010/2026,2026-01-27 08:09:24,Teen Talwar,Teen Talwar,24.808701,67.023701,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Tuesday
+BAG/1029/2026,2026-01-28 23:01:14,Baghdadi,Lyari,24.854467,66.999207,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,23,Wednesday
+GUL/1020/2026,2026-01-30 12:34:54,Gulshan Iqbal,Gulshan-e-Iqbal,24.932918,67.109021,motorcycle_theft,HIGH,none,yes,karachi_police_fir,12,Friday
+PIR/1032/2026,2026-01-30 20:07:21,Pirabad,Orangi Town,24.935302,66.98919,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Friday
+PAK/1008/2026,2026-02-01 16:31:26,Pak Colony,Pak Colony,24.909338,67.001939,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Sunday
+MOM/1033/2026,2026-02-01 20:56:08,Mominabad,Orangi Town,24.943644,66.988538,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,20,Sunday
+KAL/1045/2026,2026-02-02 18:11:23,Kalakot,Lyari,24.853521,67.001318,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,18,Monday
+PAK/1010/2026,2026-02-03 00:33:40,Pak Colony,Pak Colony,24.907545,66.99616,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Tuesday
+MOM/1037/2026,2026-02-03 10:18:37,Mominabad,Orangi Town,24.94492,66.984017,mobile_snatching,HIGH,none,yes,karachi_police_fir,10,Tuesday
+LIA/1010/2026,2026-02-05 15:11:52,Liaquatabad,Liaquatabad,24.903321,67.036423,mobile_snatching,HIGH,knife,yes,karachi_police_fir,15,Thursday
+GIZ/1008/2026,2026-02-06 23:08:06,Gizri,DHA Phase 2,24.807464,67.054113,motorcycle_theft,HIGH,none,yes,karachi_police_fir,23,Friday
+GUL/1025/2026,2026-02-07 01:09:03,Gulberg,Gulberg,24.921588,67.08929,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Saturday
+PAK/1022/2026,2026-02-11 00:34:45,Pak Colony,Pak Colony,24.902602,66.996314,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Wednesday
+NAP/1008/2026,2026-02-12 14:41:45,Napier,Saddar,24.86457,67.012606,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,14,Thursday
+BAG/1004/2026,2026-02-20 16:11:11,Baghdadi,Lyari,24.848192,66.98481,motorcycle_theft,HIGH,none,yes,karachi_police_fir,16,Friday
+NAP/1031/2026,2026-02-22 21:24:43,Napier,Saddar,24.864145,67.008871,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Sunday
+NEW/1006/2026,2026-02-22 22:28:26,New Karachi,New Karachi,24.975054,67.067924,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,22,Sunday
+ARA/1011/2026,2026-02-26 02:54:34,Arambagh,Saddar,24.859298,67.00613,robbery,HIGH,blunt_object,yes,karachi_police_fir,2,Thursday
+PIR/1045/2026,2026-03-03 00:11:56,Pirabad,Orangi Town,24.936501,66.991943,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,0,Tuesday
+KOR/1007/2026,2026-03-03 06:21:52,Korangi Creek,DHA Phase 8,24.796903,67.115706,motorcycle_theft,HIGH,none,yes,karachi_police_fir,6,Tuesday
+PIR/1036/2026,2026-03-05 07:02:20,Pirabad,Orangi Town,24.924065,66.989462,mugging,MEDIUM,knife,yes,karachi_police_fir,7,Thursday
+MOM/1004/2026,2026-03-06 21:43:18,Mominabad,Orangi Town,24.939517,66.99438,robbery,CRITICAL,blunt_object,yes,karachi_police_fir,21,Friday
+GUL/1013/2026,2026-03-06 22:00:14,Gulshan Iqbal,Gulshan-e-Iqbal,24.930082,67.101031,mugging,MEDIUM,knife,yes,karachi_police_fir,22,Friday
+BAL/1016/2026,2026-03-07 17:02:20,Baldia,Baldia Town,24.909742,66.989779,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,17,Saturday
+KOR/1006/2026,2026-03-08 00:14:44,Korangi Creek,DHA Phase 8,24.79693,67.105752,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Sunday
+MOM/1018/2026,2026-03-08 05:56:56,Mominabad,Orangi Town,24.932014,66.984225,motorcycle_theft,HIGH,none,yes,karachi_police_fir,5,Sunday
+MAL/1014/2026,2026-03-09 09:28:10,Malir,Malir,24.899595,67.186101,robbery,HIGH,blunt_object,yes,karachi_police_fir,9,Monday
+KOR/1003/2026,2026-03-10 14:31:10,Korangi,Korangi,24.836685,67.119964,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,14,Tuesday
+PAK/1013/2026,2026-03-13 03:54:03,Pak Colony,Pak Colony,24.908778,66.987726,motorcycle_theft,HIGH,none,yes,karachi_police_fir,3,Friday
+KOR/1034/2026,2026-03-13 22:57:38,Korangi,Korangi,24.829319,67.098398,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Friday
+FER/1009/2026,2026-03-15 23:51:22,Ferozabad,Gulshan-e-Iqbal,24.923554,67.094871,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,23,Sunday
+MOM/1047/2026,2026-03-16 18:32:57,Mominabad,Orangi Town,24.944226,66.984714,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,18,Monday
+ORA/1035/2026,2026-03-17 21:44:27,Orangi 5,Orangi Town,24.945656,67.00115,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,21,Tuesday
+ORA/1013/2026,2026-03-17 22:10:39,Orangi 5,Orangi Town,24.951464,66.993263,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,22,Tuesday
+MOM/1043/2026,2026-03-17 22:10:54,Mominabad,Orangi Town,24.943794,66.996016,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,22,Tuesday
+KAL/1011/2026,2026-03-19 03:18:51,Kalakot,Lyari,24.84757,66.997471,mugging,MEDIUM,knife,yes,karachi_police_fir,3,Thursday
+KAL/1014/2026,2026-03-21 23:59:43,Kalakot,Lyari,24.856862,66.999195,vehicle_hijacking,CRITICAL,firearm,yes,karachi_police_fir,23,Saturday
+ORA/1003/2026,2026-03-23 00:56:54,Orangi 5,Orangi Town,24.944413,67.00366,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,0,Monday
+PIR/1017/2026,2026-03-28 08:11:05,Pirabad,Orangi Town,24.933915,66.983149,carjacking,HIGH,firearm,yes,karachi_police_fir,8,Saturday
+PAK/1027/2026,2026-03-28 12:58:31,Pak Colony,Pak Colony,24.914248,66.995577,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,12,Saturday
+KHA/1023/2026,2026-03-28 23:47:57,Kharadar,Saddar,24.856112,67.001792,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,23,Saturday
+PAK/1017/2026,2026-03-30 09:16:48,Pak Colony,Pak Colony,24.904903,66.991475,house_burglary,MEDIUM,none,yes,karachi_police_fir,9,Monday
+NOR/1007/2026,2026-03-30 10:20:38,North Nazimabad,North Nazimabad,24.941505,67.059827,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,10,Monday
+ARA/1026/2026,2026-03-31 21:08:34,Arambagh,Saddar,24.858554,67.009033,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Tuesday
+CLI/1008/2026,2026-04-02 01:36:48,Clifton,Clifton,24.811007,67.038256,mobile_snatching,HIGH,none,yes,karachi_police_fir,1,Thursday
+PIR/1035/2026,2026-04-02 19:58:14,Pirabad,Orangi Town,24.933331,66.989056,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Thursday
+GIZ/1004/2026,2026-04-04 20:31:43,Gizri,DHA Phase 2,24.812279,67.054683,mobile_snatching,HIGH,none,yes,karachi_police_fir,20,Saturday
+SOH/1033/2026,2026-04-05 17:56:57,Sohrab Goth,Sohrab Goth,24.947281,67.053777,mobile_snatching,HIGH,none,yes,karachi_police_fir,17,Sunday
+NAP/1006/2026,2026-04-06 04:05:49,Napier,Saddar,24.866602,67.003954,motorcycle_theft,HIGH,none,yes,karachi_police_fir,4,Monday
+KOR/1026/2026,2026-04-06 22:18:19,Korangi,Korangi,24.822269,67.121867,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,22,Monday
+GUL/1023/2026,2026-04-07 09:31:41,Gulshan Iqbal,Gulshan-e-Iqbal,24.941648,67.10841,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,9,Tuesday
+MAL/1002/2026,2026-04-09 10:37:01,Malir,Malir,24.910336,67.198436,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,10,Thursday
+BAG/1024/2026,2026-04-10 01:53:16,Baghdadi,Lyari,24.850726,66.993889,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Friday
+GIZ/1012/2026,2026-04-10 02:01:02,Gizri,DHA Phase 2,24.801884,67.052357,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Friday
+LAN/1003/2026,2026-04-10 15:09:44,Landhi,Landhi,24.865078,67.17483,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,15,Friday
+GIZ/1002/2026,2026-04-10 22:44:13,Gizri,DHA Phase 2,24.798403,67.049098,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,22,Friday
+MOM/1003/2026,2026-04-12 23:06:35,Mominabad,Orangi Town,24.929076,66.999221,mobile_snatching,CRITICAL,firearm,yes,karachi_police_fir,23,Sunday
+BAL/1026/2026,2026-04-13 01:53:14,Baldia,Baldia Town,24.899412,66.977973,mobile_snatching,HIGH,none,yes,karachi_police_fir,1,Monday
+CLI/1012/2026,2026-04-13 20:15:48,Clifton,Clifton,24.807775,67.03298,mobile_snatching,HIGH,knife,yes,karachi_police_fir,20,Monday
+CLI/1001/2026,2026-04-17 00:21:54,Clifton,Clifton,24.819626,67.031128,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Friday
+LIA/1025/2026,2026-04-19 17:41:14,Liaquatabad,Liaquatabad,24.897458,67.047257,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,17,Sunday
+MOM/1009/2026,2026-04-20 01:52:18,Mominabad,Orangi Town,24.928659,67.002614,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Monday
+PIR/1001/2026,2026-04-20 17:00:56,Pirabad,Orangi Town,24.932529,66.984676,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,17,Monday
+GIZ/1006/2026,2026-04-21 01:39:28,Gizri,DHA Phase 2,24.801559,67.048604,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Tuesday
+ORA/1033/2026,2026-04-26 17:22:58,Orangi 5,Orangi Town,24.949163,66.997018,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Sunday
+MAL/1012/2026,2026-04-27 00:44:51,Malir,Malir,24.908853,67.192144,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Monday
+PIR/1038/2026,2026-04-28 01:29:16,Pirabad,Orangi Town,24.927174,66.988755,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Tuesday
+FER/1007/2026,2026-04-28 13:00:45,Ferozabad,Gulshan-e-Iqbal,24.92187,67.094949,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,13,Tuesday
+PIR/1007/2026,2026-04-28 22:14:41,Pirabad,Orangi Town,24.934749,66.981359,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,22,Tuesday
+LAN/1023/2026,2026-04-29 17:07:43,Landhi,Landhi,24.862031,67.162276,motorcycle_theft,HIGH,none,yes,karachi_police_fir,17,Wednesday
+MAL/1006/2026,2026-04-30 05:19:01,Malir,Malir,24.889372,67.187282,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,5,Thursday
+LAN/1006/2026,2026-04-30 09:59:27,Landhi,Landhi,24.863502,67.179359,mobile_snatching,HIGH,none,yes,karachi_police_fir,9,Thursday
+NOR/1033/2026,2026-05-01 19:11:17,North Nazimabad,North Nazimabad,24.947486,67.059324,mobile_snatching,HIGH,none,yes,karachi_police_fir,19,Friday
+TEE/1033/2026,2026-05-03 00:46:54,Teen Talwar,Teen Talwar,24.809596,67.029546,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Sunday
+MAL/1021/2026,2026-05-03 02:18:55,Malir,Malir,24.909897,67.17757,mobile_snatching,HIGH,none,yes,karachi_police_fir,2,Sunday
+ORA/1001/2026,2026-05-04 01:12:13,Orangi 5,Orangi Town,24.942817,67.006183,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Monday
+FER/1011/2026,2026-05-05 03:03:48,Ferozabad,Gulshan-e-Iqbal,24.920398,67.090417,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,3,Tuesday
+SUR/1037/2026,2026-05-05 08:27:44,Surjani,Surjani Town,25.000346,67.028724,motorcycle_theft,HIGH,none,yes,karachi_police_fir,8,Tuesday
+LAN/1015/2026,2026-05-05 23:11:48,Landhi,Landhi,24.859512,67.179852,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,23,Tuesday
+GUL/1012/2026,2026-05-06 02:22:52,Gulshan Iqbal,Gulshan-e-Iqbal,24.930258,67.095669,motorcycle_theft,HIGH,none,yes,karachi_police_fir,2,Wednesday
+ORA/1045/2026,2026-05-09 00:30:23,Orangi 5,Orangi Town,24.947722,66.993829,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Saturday
+PIR/1011/2026,2026-05-10 02:51:08,Pirabad,Orangi Town,24.932888,66.981054,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,2,Sunday
+GUL/1031/2026,2026-05-14 22:19:10,Gulshan Iqbal,Gulshan-e-Iqbal,24.938728,67.107673,mobile_snatching,HIGH,none,yes,karachi_police_fir,22,Thursday
+MAL/1013/2026,2026-05-18 18:25:56,Malir,Malir,24.902519,67.194252,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,18,Monday
+KAL/1039/2026,2026-05-19 15:40:59,Kalakot,Lyari,24.847826,66.997665,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,15,Tuesday
+KHA/1024/2026,2026-05-19 20:00:10,Kharadar,Saddar,24.849705,67.010012,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,20,Tuesday
+KEM/1024/2026,2026-05-19 20:36:29,Kemari,Kemari,24.841952,66.966083,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,20,Tuesday
+GUL/1008/2026,2026-05-21 11:26:08,Gulshan Iqbal,Gulshan-e-Iqbal,24.926252,67.107132,motorcycle_theft,HIGH,knife,yes,karachi_police_fir,11,Thursday
+CLI/1014/2026,2026-05-22 00:49:08,Clifton,Clifton,24.816046,67.029256,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Friday
+NAP/1032/2026,2026-05-24 01:52:23,Napier,Saddar,24.861281,67.003504,motorcycle_theft,HIGH,none,yes,karachi_police_fir,1,Sunday
+KAL/1043/2026,2026-05-26 00:04:03,Kalakot,Lyari,24.854818,66.996108,motorcycle_theft,HIGH,none,yes,karachi_police_fir,0,Tuesday
+GUL/1046/2026,2026-05-26 19:33:58,Gulshan Iqbal,Gulshan-e-Iqbal,24.923053,67.114067,motorcycle_theft,HIGH,none,yes,karachi_police_fir,19,Tuesday
+CLI/1013/2026,2026-05-26 21:03:19,Clifton,Clifton,24.819256,67.036513,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Tuesday
+GUL/1007/2026,2026-05-27 22:43:23,Gulshan Iqbal,Gulshan-e-Iqbal,24.92847,67.099066,motorcycle_theft,HIGH,none,yes,karachi_police_fir,22,Wednesday
+KHA/1006/2026,2026-05-27 23:21:40,Kharadar,Saddar,24.856495,67.008628,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,23,Wednesday
+GUL/1039/2026,2026-05-28 20:42:35,Gulshan Iqbal,Gulshan-e-Iqbal,24.929486,67.096832,motorcycle_theft,HIGH,none,yes,karachi_police_fir,20,Thursday
+GUL/1021/2026,2026-05-29 01:05:57,Gulshan Iqbal,Gulshan-e-Iqbal,24.939581,67.100179,vehicle_hijacking,HIGH,firearm,yes,karachi_police_fir,1,Friday
+GUL/1004/2026,2026-05-29 01:45:24,Gulberg,Gulberg,24.911712,67.083621,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,1,Friday
+MAL/1016/2026,2026-05-29 09:00:08,Malir,Malir,24.899796,67.184071,motorcycle_theft,HIGH,none,yes,karachi_police_fir,9,Friday
+KOR/1004/2026,2026-05-29 21:08:54,Korangi Creek,DHA Phase 8,24.799077,67.106314,motorcycle_theft,HIGH,none,yes,karachi_police_fir,21,Friday
+MAL/1018/2026,2026-05-30 08:46:27,Malir,Malir,24.9045,67.18528,mobile_snatching,HIGH,firearm,yes,karachi_police_fir,8,Saturday
+KEM/1015/2026,2026-05-30 18:14:36,Kemari,Kemari,24.847127,66.974585,kidnapping,CRITICAL,firearm,yes,karachi_police_fir,18,Saturday
+KAL/1036/2026,2026-05-31 20:00:36,Kalakot,Lyari,24.852056,67.001262,motorcycle_theft,CRITICAL,none,yes,karachi_police_fir,20,Sunday

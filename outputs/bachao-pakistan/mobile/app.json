@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Bachao Pakistan",
+    "slug": "bachao-pakistan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "backgroundColor": "#0f172a"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#0f172a"
+      },
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "CALL_PHONE",
+        "VIBRATE"
+      ]
+    },
+    "ios": {
+      "infoPlist": {
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Bachao Pakistan needs location to monitor your journey and detect deviations.",
+        "NSLocationWhenInUseUsageDescription": "Bachao Pakistan needs location to monitor your journey.",
+        "NSMotionUsageDescription": "Bachao Pakistan uses motion to detect shake SOS signals."
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "Bachao Pakistan"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow Bachao Pakistan to use your location."
+        }
+      ]
+    ]
+  }
+}

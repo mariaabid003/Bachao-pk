@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-check/
+.expo/
+.env
+*.log
+*.err.log
+__pycache__/
+*.py[cod]
+backend/firebase-credentials.json
