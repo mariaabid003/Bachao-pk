@@ -122,5 +122,5 @@ const s = {
                   padding: '6px 12px', fontSize: 12, fontWeight: 600, color: '#475569', cursor: 'pointer' },
   filterBtnActive:{ background: '#0D1829', color: '#FFFFFF', borderColor: 'transparent' },
   toggle:       { display: 'flex', alignItems: 'center', marginBottom: 8, cursor: 'pointer' },
-  mapWrap:      { flex: 1, position: 'relative' },
+  mapWrap:      { flex: 1, position: 'relative', minHeight: 0 },
 };

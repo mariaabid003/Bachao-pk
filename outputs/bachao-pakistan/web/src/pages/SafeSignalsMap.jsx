@@ -127,5 +127,5 @@ const s = {
   listName:      { color: '#0D1829', fontSize: 13, fontWeight: 600, margin: '0 0 2px' },
   listMeta:      { color: '#94A3B8', fontSize: 11, margin: 0 },
   badge:         { padding: '3px 8px', borderRadius: 8, fontSize: 10, fontWeight: 800 },
-  mapWrap:       { flex: 1, position: 'relative' },
+  mapWrap:       { flex: 1, position: 'relative', minHeight: 0 },
 };
