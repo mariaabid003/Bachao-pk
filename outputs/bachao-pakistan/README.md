@@ -188,21 +188,19 @@ Both the web dashboard and mobile app use a unified light-pastel palette:
 
 ## Deployment
 
-A `render.yaml` and `DEPLOY_RENDER.md` are included for one-click deployment to [Render](https://render.com).
+A `render.yaml` is included for deployment to [Render](https://render.com).
 
-For a full production setup:
-- Backend → Render (Web Service, Python)
-- Web → Vercel or Render (Static Site)
-- Mobile → Expo EAS Build for iOS/Android
+**Backend** → Render Web Service
+- Root: `backend`
+- Build: `pip install -r requirements.txt`
+- Start: `uvicorn main:app --host 0.0.0.0 --port $PORT`
 
----
+**Web** → Render Static Site (or Vercel)
+- Root: `web`
+- Build: `npm install && npm run build`
+- Publish: `dist`
 
-## Contributing
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feat/my-feature`)
-3. Commit your changes
-4. Open a pull request
+**Mobile** → Expo EAS Build for iOS / Android stores
 
 ---
 
