@@ -6,6 +6,16 @@
 
 ---
 
+## 🌐 Live Demo
+
+| Service | URL |
+|---|---|
+| Web Dashboard | [https://bachao-pk.onrender.com](https://bachao-pk.onrender.com) |
+| Backend API | [https://bachao-backend.onrender.com](https://bachao-backend.onrender.com) |
+| API Docs | [https://bachao-backend.onrender.com/docs](https://bachao-backend.onrender.com/docs) |
+
+---
+
 ## Live Project
 
 The full application lives in [`outputs/bachao-pakistan/`](./outputs/bachao-pakistan/) and consists of three parts:
