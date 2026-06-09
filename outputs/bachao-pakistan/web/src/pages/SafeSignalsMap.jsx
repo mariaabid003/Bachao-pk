@@ -84,16 +84,26 @@ export default function SafeSignalsMap() {
           <MapContainer center={KARACHI_CENTER} zoom={12} style={{ height: '100%', width: '100%' }}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="© OpenStreetMap" />
             {filtered.map((sig, i) => {
+              const lat = sig.lat ?? sig.latitude;
+              const lng = sig.lng ?? sig.longitude;
+              if (!lat || !lng) return null;
               const level = sig.risk_level || sig.current_risk_level;
               const color = PIN_COLORS[level] || '#94A3B8';
-              return sig.lat && (
-                <CircleMarker key={i} center={[sig.lat, sig.lng]} radius={10}
+              const peakHours = Array.isArray(sig.peak_hours)
+                ? sig.peak_hours
+                : typeof sig.peak_hours === 'string'
+                  ? sig.peak_hours.split(',').map(s => s.trim()).filter(Boolean)
+                  : [];
+              return (
+                <CircleMarker key={i} center={[lat, lng]} radius={10}
                   pathOptions={{ color, fillColor: color, fillOpacity: 0.6, weight: 2 }}>
                   <Popup>
-                    <strong style={{ fontSize: 14 }}>{sig.name}</strong><br />
-                    Risk: <strong style={{ color }}>{level}</strong><br />
-                    {sig.incident_count_week} incidents/wk<br />
-                    {sig.peak_hours?.length > 0 && `Peak: ${sig.peak_hours.join('h, ')}h`}
+                    <div style={{ fontSize: 13, minWidth: 160 }}>
+                      <strong style={{ fontSize: 14, color, display: 'block', marginBottom: 4 }}>{sig.name}</strong>
+                      <div>Risk: <strong style={{ color }}>{level}</strong></div>
+                      <div>{sig.incident_count_week} incidents/wk</div>
+                      {peakHours.length > 0 && <div style={{ color: '#94A3B8' }}>Peak: {peakHours.join('h, ')}h</div>}
+                    </div>
                   </Popup>
                 </CircleMarker>
               );

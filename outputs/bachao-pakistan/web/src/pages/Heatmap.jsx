@@ -79,19 +79,27 @@ export default function Heatmap() {
         <div style={s.mapWrap}>
           <MapContainer center={KARACHI_CENTER} zoom={12} style={{ height: '100%', width: '100%' }}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="© OpenStreetMap" />
-            {layers.hotspots && hotspots.map((h, i) => (
-              <Circle key={i} center={[h.lat, h.lng]}
-                radius={h.radius_meters || 600}
-                pathOptions={{ color: RISK_COLORS[h.risk_level]||'#EF4444', fillOpacity: 0.18, weight: 1.5 }} />
-            ))}
+            {layers.hotspots && hotspots.map((h, i) => {
+              const lat = h.lat ?? h.center_lat;
+              const lng = h.lng ?? h.center_lng;
+              if (!lat || !lng) return null;
+              return (
+                <Circle key={i} center={[lat, lng]}
+                  radius={h.radius_meters || 600}
+                  pathOptions={{ color: RISK_COLORS[h.risk_level]||'#EF4444', fillOpacity: 0.18, weight: 1.5 }} />
+              );
+            })}
             {layers.signals && signals.map((sig, i) => (
               <SignalMarker key={i} signal={sig} />
             ))}
-            {layers.incidents && incidents.map((inc, i) => inc.lat && (
-              <Circle key={i} center={[inc.lat, inc.lng]}
-                radius={120}
-                pathOptions={{ color: '#94A3B8', fillOpacity: 0.3, weight: 1 }} />
-            ))}
+            {layers.incidents && incidents.map((inc, i) => {
+              if (!inc.lat || !inc.lng) return null;
+              return (
+                <Circle key={i} center={[inc.lat, inc.lng]}
+                  radius={120}
+                  pathOptions={{ color: '#94A3B8', fillOpacity: 0.3, weight: 1 }} />
+              );
+            })}
           </MapContainer>
         </div>
       </div>

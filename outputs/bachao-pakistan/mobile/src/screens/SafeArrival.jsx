@@ -17,7 +17,7 @@ export default function SafeArrival({ navigation }) {
         <View style={s.statDiv} />
         <View style={s.stat}><Text style={s.statNum}>🛡️</Text><Text style={s.statLbl}>Protected</Text></View>
       </View>
-      <TouchableOpacity style={s.btn} onPress={() => navigation.replace('Home')}>
+      <TouchableOpacity style={s.btn} onPress={() => navigation.navigate('Main', { screen: 'Monitor' })}>
         <Text style={s.btnTxt}>Back to Home</Text>
       </TouchableOpacity>
       <TouchableOpacity style={s.reportBtn} onPress={() => navigation.navigate('IncidentReport')}>

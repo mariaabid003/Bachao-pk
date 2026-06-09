@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-06-08T08:48:15.555193+00:00",
+  "trained_at": "2026-06-09T16:24:16.495465+00:00",
   "n_samples": 4216,
   "n_high_risk": 2397,
   "n_low_risk": 1819,
@@ -9,12 +9,12 @@
   "holdout_precision": 0.8664,
   "holdout_recall": 0.983,
   "holdout_f1": 0.921,
-  "cv_f1_mean": 0.921,
-  "cv_f1_std": 0.0995,
+  "cv_f1_mean": 0.9228,
+  "cv_f1_std": 0.1008,
   "model_type": "RandomForestClassifier",
   "n_estimators": 200,
   "max_depth": 10,
-  "duration_ms": 10331,
+  "duration_ms": 6194,
   "feature_names": [
     "hour_risk",
     "day_weight",
@@ -30,43 +30,43 @@
   "feature_importances": [
     {
       "feature": "origin_weekly_incidents",
-      "importance": 0.2577
+      "importance": 0.2628
     },
     {
       "feature": "origin_crime_idx",
-      "importance": 0.2457
+      "importance": 0.2474
     },
     {
       "feature": "signals_on_route",
-      "importance": 0.1854
+      "importance": 0.1865
     },
     {
       "feature": "route_length_norm",
-      "importance": 0.091
+      "importance": 0.0945
     },
     {
       "feature": "dest_weekly_incidents",
-      "importance": 0.0465
-    },
-    {
-      "feature": "dest_crime_idx",
-      "importance": 0.0457
-    },
-    {
-      "feature": "high_risk_signals",
-      "importance": 0.0426
+      "importance": 0.0437
     },
     {
       "feature": "day_weight",
-      "importance": 0.0419
+      "importance": 0.0407
+    },
+    {
+      "feature": "dest_crime_idx",
+      "importance": 0.0404
+    },
+    {
+      "feature": "high_risk_signals",
+      "importance": 0.0401
     },
     {
       "feature": "hour_risk",
-      "importance": 0.0352
+      "importance": 0.0358
     },
     {
       "feature": "journey_type_weight",
-      "importance": 0.0084
+      "importance": 0.0081
     }
   ],
   "confusion_matrix": {
