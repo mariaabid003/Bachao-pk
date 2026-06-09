@@ -1,9 +1,0 @@
-{
-  "id": "2",
-  "subject": "Build backend (FastAPI + ML + services)",
-  "description": "main.py, requirements.txt, .env.example, all api/, ml/, services/ files",
-  "activeForm": "Writing backend files",
-  "status": "completed",
-  "blocks": [],
-  "blockedBy": []
-}
