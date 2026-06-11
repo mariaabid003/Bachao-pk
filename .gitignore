@@ -11,6 +11,9 @@ node_modules/
 # Environment
 .env
 
+# Firebase config with API keys
+outputs/bachao-pakistan/mobile/src/utils/firebase.js
+
 # Build outputs
 dist/
 __pycache__/
